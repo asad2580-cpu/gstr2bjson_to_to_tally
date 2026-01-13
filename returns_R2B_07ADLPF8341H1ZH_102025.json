@@ -1,0 +1,285 @@
+{
+    "data": {
+        "itcsumm": {
+            "itcavl": {
+                "nonrevsup": {
+                    "sgst": 35919,
+                    "b2b": {
+                        "sgst": 35919,
+                        "txval": 1630634,
+                        "cgst": 35919,
+                        "cess": 0,
+                        "igst": 221676.12
+                    },
+                    "cgst": 35919,
+                    "cess": 0,
+                    "igst": 221676.12
+                }
+            }
+        },
+        "rtnprd": "102025",
+        "docdata": {
+            "b2b": [
+                {
+                    "inv": [
+                        {
+                            "val": 91934,
+                            "sgst": 0,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "irn": "7861dabef75751f87f7603a258c9e1b967366d656dfaad81e531e4d9901598de",
+                            "txval": 77910,
+                            "typ": "R",
+                            "cgst": 0,
+                            "irngendate": "03-10-2025",
+                            "inum": "2025-26/190",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 14023.8,
+                            "dt": "03-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07",
+                            "srctyp": "E-Invoice"
+                        },
+                        {
+                            "val": 95254,
+                            "sgst": 0,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "irn": "4f67839cdc1bf479fe277a44ef6c48703bc1c33f357460a48e4066f515884b96",
+                            "txval": 80724,
+                            "typ": "R",
+                            "cgst": 0,
+                            "irngendate": "08-10-2025",
+                            "inum": "2025-26/193",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 14530.32,
+                            "dt": "08-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07",
+                            "srctyp": "E-Invoice"
+                        },
+                        {
+                            "val": 55755,
+                            "sgst": 0,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "irn": "b8405e412f40546baab045b54e4c2407be934339f9a400c638a1c956bd89b7fd",
+                            "txval": 47250,
+                            "typ": "R",
+                            "cgst": 0,
+                            "irngendate": "13-10-2025",
+                            "inum": "2025-26/199",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 8505,
+                            "dt": "12-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07",
+                            "srctyp": "E-Invoice"
+                        },
+                        {
+                            "val": 99170,
+                            "sgst": 0,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "irn": "2a6188f17fea525d124b782a453b7444cd25edc961322a911f5ca43ea9b44ce8",
+                            "txval": 84042,
+                            "typ": "R",
+                            "cgst": 0,
+                            "irngendate": "18-10-2025",
+                            "inum": "2025-26/204",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 15127.56,
+                            "dt": "18-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07",
+                            "srctyp": "E-Invoice"
+                        },
+                        {
+                            "val": 90397.04,
+                            "sgst": 0,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "irn": "e736f5f752f08aba50e3645dd57b90faafe5998feb1c3791b5524cb80181264c",
+                            "txval": 76608,
+                            "typ": "R",
+                            "cgst": 0,
+                            "irngendate": "31-10-2025",
+                            "inum": "2025-26/222",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 13789.44,
+                            "dt": "31-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07",
+                            "srctyp": "E-Invoice"
+                        }
+                    ],
+                    "trdnm": "DHARAM PAPER MART",
+                    "supfildt": "10-11-2025",
+                    "supprd": "102025",
+                    "ctin": "09AQJPS2677J1Z3"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 1020700,
+                            "sgst": 0,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 865000,
+                            "typ": "R",
+                            "cgst": 0,
+                            "inum": "62",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 155700,
+                            "dt": "09-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "SUNITHA S PRINTERS",
+                    "supfildt": "10-11-2025",
+                    "supprd": "102025",
+                    "ctin": "36LBSPS6988R1ZN"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 87438,
+                            "sgst": 6669,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 74100,
+                            "typ": "R",
+                            "cgst": 6669,
+                            "inum": "2458",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "06-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 92040,
+                            "sgst": 7020,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 78000,
+                            "typ": "R",
+                            "cgst": 7020,
+                            "inum": "2460",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "10-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 95108,
+                            "sgst": 7254,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 80600,
+                            "typ": "R",
+                            "cgst": 7254,
+                            "inum": "2462",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "11-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 99710,
+                            "sgst": 7605,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 84500,
+                            "typ": "R",
+                            "cgst": 7605,
+                            "inum": "2463",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "13-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 96642,
+                            "sgst": 7371,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 81900,
+                            "typ": "R",
+                            "cgst": 7371,
+                            "inum": "2464",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "13-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "CHETAK ENTERPRISES",
+                    "supfildt": "12-11-2025",
+                    "supprd": "102025",
+                    "ctin": "07ACCPS0063M1ZH"
+                }
+            ]
+        },
+        "gendt": "18-11-2025",
+        "gstin": "07ADLPF8341H1ZH",
+        "version": "1.0",
+        "cpsumm": {
+            "b2b": [
+                {
+                    "sgst": 0,
+                    "ttldocs": 1,
+                    "trdnm": "SUNITHA S PRINTERS",
+                    "supprd": "102025",
+                    "supfildt": "10-11-2025",
+                    "txval": 865000,
+                    "ctin": "36LBSPS6988R1ZN",
+                    "cgst": 0,
+                    "cess": 0,
+                    "igst": 155700
+                },
+                {
+                    "sgst": 0,
+                    "ttldocs": 5,
+                    "trdnm": "DHARAM PAPER MART",
+                    "supprd": "102025",
+                    "supfildt": "10-11-2025",
+                    "txval": 366534,
+                    "ctin": "09AQJPS2677J1Z3",
+                    "cgst": 0,
+                    "cess": 0,
+                    "igst": 65976.12
+                },
+                {
+                    "sgst": 35919,
+                    "ttldocs": 5,
+                    "trdnm": "CHETAK ENTERPRISES",
+                    "supprd": "102025",
+                    "supfildt": "12-11-2025",
+                    "txval": 399100,
+                    "ctin": "07ACCPS0063M1ZH",
+                    "cgst": 35919,
+                    "cess": 0,
+                    "igst": 0
+                }
+            ]
+        }
+    },
+    "chksum": "9d5b1e7f198fd44fc3c61c398f9ad61d0c7767ddffe3a039fa513598f37c86cd"
+}
