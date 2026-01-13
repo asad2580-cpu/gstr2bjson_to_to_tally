@@ -1,0 +1,144 @@
+import json
+import os
+from datetime import datetime
+from decimal import Decimal, ROUND_HALF_UP
+
+
+def r2(val):
+    """Round to 2 decimals safely for Tally ERP 9"""
+    return Decimal(val).quantize(Decimal("0.01"), rounding=ROUND_HALF_UP)
+
+
+def generate_tally_xml():
+    input_file = 'cleaned_invoices.json'
+    output_file = 'Voucher_import.xml'
+
+    if not os.path.exists(input_file):
+        print(f"Error: {input_file} not found.")
+        return
+
+    with open(input_file, 'r', encoding='utf-8') as f:
+        invoices = json.load(f)
+
+    xml = """<ENVELOPE>
+<HEADER>
+<TALLYREQUEST>Import Data</TALLYREQUEST>
+</HEADER>
+<BODY>
+<IMPORTDATA>
+<REQUESTDESC>
+<REPORTNAME>Vouchers</REPORTNAME>
+<STATICVARIABLES>
+<SVCURRENTCOMPANY>test company</SVCURRENTCOMPANY>
+</STATICVARIABLES>
+</REQUESTDESC>
+<REQUESTDATA>"""
+
+    for inv in invoices:
+        date = datetime.strptime(inv['date'], "%d-%m-%Y").strftime("%Y%m%d")
+
+        taxable = r2(inv['taxable_value'])
+        igst = r2(inv.get('igst_amount', 0))
+        cgst = r2(inv.get('cgst_amount', 0))
+        sgst = r2(inv.get('sgst_amount', 0))
+        invoice_total = r2(inv['total_invoice_value'])
+
+        tax_total = igst + cgst + sgst
+        debit_total = taxable + tax_total
+
+        rate = int((tax_total / taxable * 100).quantize(0)) if taxable != 0 else 0
+        half_rate = rate // 2
+
+        xml += f"""
+<TALLYMESSAGE xmlns:UDF="TallyUDF">
+<VOUCHER VCHTYPE="Purchase" ACTION="Create" OBJTYPE="Voucher">
+<DATE>{date}</DATE>
+<REFERENCEDATE>{date}</REFERENCEDATE>
+<VOUCHERTYPENAME>Purchase</VOUCHERTYPENAME>
+<REFERENCE>{inv['invoice_number']}</REFERENCE>
+<VOUCHERNUMBER>{inv['invoice_number']}</VOUCHERNUMBER>
+<PARTYLEDGERNAME>{inv['supplier_name']}</PARTYLEDGERNAME>
+<PERSISTEDVIEW>Accounting Voucher View</PERSISTEDVIEW>
+
+<!-- PARTY (CREDIT) -->
+<ALLLEDGERENTRIES.LIST>
+<LEDGERNAME>{inv['supplier_name']}</LEDGERNAME>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+<AMOUNT>{invoice_total}</AMOUNT>
+<BILLALLOCATIONS.LIST>
+<NAME>{inv['invoice_number']}</NAME>
+<BILLTYPE>New Ref</BILLTYPE>
+<AMOUNT>{invoice_total}</AMOUNT>
+</BILLALLOCATIONS.LIST>
+</ALLLEDGERENTRIES.LIST>"""
+
+        # PURCHASE LEDGER (DEBIT)
+        purchase_ledger = (
+            f"Interstate Purchase {rate}%" if igst > 0 else f"Local Purchase {rate}%"
+        )
+
+        xml += f"""
+<ALLLEDGERENTRIES.LIST>
+<LEDGERNAME>{purchase_ledger}</LEDGERNAME>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+<AMOUNT>-{taxable}</AMOUNT>
+</ALLLEDGERENTRIES.LIST>"""
+
+        # TAX LEDGERS (DEBIT)
+        if igst > 0:
+            xml += f"""
+<ALLLEDGERENTRIES.LIST>
+<LEDGERNAME>Input IGST {rate}%</LEDGERNAME>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+<AMOUNT>-{igst}</AMOUNT>
+</ALLLEDGERENTRIES.LIST>"""
+        else:
+            xml += f"""
+<ALLLEDGERENTRIES.LIST>
+<LEDGERNAME>Input CGST {half_rate}%</LEDGERNAME>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+<AMOUNT>-{cgst}</AMOUNT>
+</ALLLEDGERENTRIES.LIST>
+<ALLLEDGERENTRIES.LIST>
+<LEDGERNAME>Input SGST {half_rate}%</LEDGERNAME>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+<AMOUNT>-{sgst}</AMOUNT>
+</ALLLEDGERENTRIES.LIST>"""
+
+        # ROUND OFF — ERP 9 REQUIRES SIGNED AMOUNTS
+        if debit_total != invoice_total:
+            if debit_total > invoice_total:
+                # Excess debit → CREDIT round off
+                round_off_amt = r2(debit_total - invoice_total)
+                round_off_deemed = "Yes"
+                round_off_signed = round_off_amt
+            else:
+                # Excess credit → DEBIT round off
+                round_off_amt = r2(invoice_total - debit_total)
+                round_off_deemed = "No"
+                round_off_signed = -round_off_amt
+
+            xml += f"""
+<ALLLEDGERENTRIES.LIST>
+<LEDGERNAME>Round Off</LEDGERNAME>
+<ISDEEMEDPOSITIVE>{round_off_deemed}</ISDEEMEDPOSITIVE>
+<AMOUNT>{round_off_signed}</AMOUNT>
+</ALLLEDGERENTRIES.LIST>"""
+
+        xml += """
+</VOUCHER>
+</TALLYMESSAGE>"""
+
+    xml += """
+</REQUESTDATA>
+</IMPORTDATA>
+</BODY>
+</ENVELOPE>"""
+
+    with open(output_file, 'w', encoding='utf-8') as f:
+        f.write(xml)
+
+    print(f"Success: {output_file} generated.")
+
+
+generate_tally_xml()

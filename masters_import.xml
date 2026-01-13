@@ -1,0 +1,105 @@
+<?xml version="1.0" ?>
+<ENVELOPE VERSION="1.0">
+    <HEADER>
+        <TALLYREQUEST>Import Data</TALLYREQUEST>
+    </HEADER>
+    <BODY>
+        <IMPORTDATA>
+            <REQUESTDESC>
+                <REPORTNAME>All Masters</REPORTNAME>
+                <STATICVARIABLES>
+                    <SVCURRENTCOMPANY>test company</SVCURRENTCOMPANY>
+                </STATICVARIABLES>
+            </REQUESTDESC>
+            <REQUESTDATA>
+                <TALLYMESSAGE xmlns:UDF="TallyUDF">
+                    <LEDGER NAME="Round Off" ACTION="Create">
+                        <NAME>Round Off</NAME>
+                        <PARENT>Indirect Expenses</PARENT>
+                        <ISBILLWISEON>No</ISBILLWISEON>
+                        <ISUPDATINGTARGETID>No</ISUPDATINGTARGETID>
+                        <ASORIGINAL>Yes</ASORIGINAL>
+                    </LEDGER>
+                </TALLYMESSAGE>
+                <TALLYMESSAGE xmlns:UDF="TallyUDF">
+                    <LEDGER NAME="DHARAM PAPER MART" ACTION="Create">
+                        <NAME>DHARAM PAPER MART</NAME>
+                        <PARENT>Sundry Creditors</PARENT>
+                        <ISBILLWISEON>Yes</ISBILLWISEON>
+                        <ISUPDATINGTARGETID>No</ISUPDATINGTARGETID>
+                        <ASORIGINAL>Yes</ASORIGINAL>
+                    </LEDGER>
+                </TALLYMESSAGE>
+                <TALLYMESSAGE xmlns:UDF="TallyUDF">
+                    <LEDGER NAME="Interstate Purchase 12%" ACTION="Create">
+                        <NAME>Interstate Purchase 12%</NAME>
+                        <PARENT>Purchase Accounts</PARENT>
+                        <ISBILLWISEON>No</ISBILLWISEON>
+                        <ISUPDATINGTARGETID>No</ISUPDATINGTARGETID>
+                        <ASORIGINAL>Yes</ASORIGINAL>
+                    </LEDGER>
+                </TALLYMESSAGE>
+                <TALLYMESSAGE xmlns:UDF="TallyUDF">
+                    <LEDGER NAME="Input IGST 12%" ACTION="Create">
+                        <NAME>Input IGST 12%</NAME>
+                        <PARENT>Duties &amp; Taxes</PARENT>
+                        <ISBILLWISEON>No</ISBILLWISEON>
+                        <ISUPDATINGTARGETID>No</ISUPDATINGTARGETID>
+                        <ASORIGINAL>Yes</ASORIGINAL>
+                        <TAXTYPE>GST</TAXTYPE>
+                        <GSTDUTYHEAD>Integrated Tax</GSTDUTYHEAD>
+                    </LEDGER>
+                </TALLYMESSAGE>
+                <TALLYMESSAGE xmlns:UDF="TallyUDF">
+                    <LEDGER NAME="CHETAK ENTERPRISES" ACTION="Create">
+                        <NAME>CHETAK ENTERPRISES</NAME>
+                        <PARENT>Sundry Creditors</PARENT>
+                        <ISBILLWISEON>Yes</ISBILLWISEON>
+                        <ISUPDATINGTARGETID>No</ISUPDATINGTARGETID>
+                        <ASORIGINAL>Yes</ASORIGINAL>
+                    </LEDGER>
+                </TALLYMESSAGE>
+                <TALLYMESSAGE xmlns:UDF="TallyUDF">
+                    <LEDGER NAME="Local Purchase 12%" ACTION="Create">
+                        <NAME>Local Purchase 12%</NAME>
+                        <PARENT>Purchase Accounts</PARENT>
+                        <ISBILLWISEON>No</ISBILLWISEON>
+                        <ISUPDATINGTARGETID>No</ISUPDATINGTARGETID>
+                        <ASORIGINAL>Yes</ASORIGINAL>
+                    </LEDGER>
+                </TALLYMESSAGE>
+                <TALLYMESSAGE xmlns:UDF="TallyUDF">
+                    <LEDGER NAME="Input CGST 6%" ACTION="Create">
+                        <NAME>Input CGST 6%</NAME>
+                        <PARENT>Duties &amp; Taxes</PARENT>
+                        <ISBILLWISEON>No</ISBILLWISEON>
+                        <ISUPDATINGTARGETID>No</ISUPDATINGTARGETID>
+                        <ASORIGINAL>Yes</ASORIGINAL>
+                        <TAXTYPE>GST</TAXTYPE>
+                        <GSTDUTYHEAD>Central Tax</GSTDUTYHEAD>
+                    </LEDGER>
+                </TALLYMESSAGE>
+                <TALLYMESSAGE xmlns:UDF="TallyUDF">
+                    <LEDGER NAME="Input SGST 6%" ACTION="Create">
+                        <NAME>Input SGST 6%</NAME>
+                        <PARENT>Duties &amp; Taxes</PARENT>
+                        <ISBILLWISEON>No</ISBILLWISEON>
+                        <ISUPDATINGTARGETID>No</ISUPDATINGTARGETID>
+                        <ASORIGINAL>Yes</ASORIGINAL>
+                        <TAXTYPE>GST</TAXTYPE>
+                        <GSTDUTYHEAD>State Tax</GSTDUTYHEAD>
+                    </LEDGER>
+                </TALLYMESSAGE>
+                <TALLYMESSAGE xmlns:UDF="TallyUDF">
+                    <LEDGER NAME="RATHORE PAPER MART" ACTION="Create">
+                        <NAME>RATHORE PAPER MART</NAME>
+                        <PARENT>Sundry Creditors</PARENT>
+                        <ISBILLWISEON>Yes</ISBILLWISEON>
+                        <ISUPDATINGTARGETID>No</ISUPDATINGTARGETID>
+                        <ASORIGINAL>Yes</ASORIGINAL>
+                    </LEDGER>
+                </TALLYMESSAGE>
+            </REQUESTDATA>
+        </IMPORTDATA>
+    </BODY>
+</ENVELOPE>
