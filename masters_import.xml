@@ -31,8 +31,8 @@
                     </LEDGER>
                 </TALLYMESSAGE>
                 <TALLYMESSAGE xmlns:UDF="TallyUDF">
-                    <LEDGER NAME="Interstate Purchase 12%" ACTION="Create">
-                        <NAME>Interstate Purchase 12%</NAME>
+                    <LEDGER NAME="Interstate Purchase 18%" ACTION="Create">
+                        <NAME>Interstate Purchase 18%</NAME>
                         <PARENT>Purchase Accounts</PARENT>
                         <ISBILLWISEON>No</ISBILLWISEON>
                         <ISUPDATINGTARGETID>No</ISUPDATINGTARGETID>
@@ -40,14 +40,23 @@
                     </LEDGER>
                 </TALLYMESSAGE>
                 <TALLYMESSAGE xmlns:UDF="TallyUDF">
-                    <LEDGER NAME="Input IGST 12%" ACTION="Create">
-                        <NAME>Input IGST 12%</NAME>
+                    <LEDGER NAME="Input IGST 18%" ACTION="Create">
+                        <NAME>Input IGST 18%</NAME>
                         <PARENT>Duties &amp; Taxes</PARENT>
                         <ISBILLWISEON>No</ISBILLWISEON>
                         <ISUPDATINGTARGETID>No</ISUPDATINGTARGETID>
                         <ASORIGINAL>Yes</ASORIGINAL>
                         <TAXTYPE>GST</TAXTYPE>
                         <GSTDUTYHEAD>Integrated Tax</GSTDUTYHEAD>
+                    </LEDGER>
+                </TALLYMESSAGE>
+                <TALLYMESSAGE xmlns:UDF="TallyUDF">
+                    <LEDGER NAME="SUNITHA S PRINTERS" ACTION="Create">
+                        <NAME>SUNITHA S PRINTERS</NAME>
+                        <PARENT>Sundry Creditors</PARENT>
+                        <ISBILLWISEON>Yes</ISBILLWISEON>
+                        <ISUPDATINGTARGETID>No</ISUPDATINGTARGETID>
+                        <ASORIGINAL>Yes</ASORIGINAL>
                     </LEDGER>
                 </TALLYMESSAGE>
                 <TALLYMESSAGE xmlns:UDF="TallyUDF">
@@ -60,8 +69,8 @@
                     </LEDGER>
                 </TALLYMESSAGE>
                 <TALLYMESSAGE xmlns:UDF="TallyUDF">
-                    <LEDGER NAME="Local Purchase 12%" ACTION="Create">
-                        <NAME>Local Purchase 12%</NAME>
+                    <LEDGER NAME="Local Purchase 18%" ACTION="Create">
+                        <NAME>Local Purchase 18%</NAME>
                         <PARENT>Purchase Accounts</PARENT>
                         <ISBILLWISEON>No</ISBILLWISEON>
                         <ISUPDATINGTARGETID>No</ISUPDATINGTARGETID>
@@ -69,8 +78,8 @@
                     </LEDGER>
                 </TALLYMESSAGE>
                 <TALLYMESSAGE xmlns:UDF="TallyUDF">
-                    <LEDGER NAME="Input CGST 6%" ACTION="Create">
-                        <NAME>Input CGST 6%</NAME>
+                    <LEDGER NAME="Input CGST 9%" ACTION="Create">
+                        <NAME>Input CGST 9%</NAME>
                         <PARENT>Duties &amp; Taxes</PARENT>
                         <ISBILLWISEON>No</ISBILLWISEON>
                         <ISUPDATINGTARGETID>No</ISUPDATINGTARGETID>
@@ -80,23 +89,14 @@
                     </LEDGER>
                 </TALLYMESSAGE>
                 <TALLYMESSAGE xmlns:UDF="TallyUDF">
-                    <LEDGER NAME="Input SGST 6%" ACTION="Create">
-                        <NAME>Input SGST 6%</NAME>
+                    <LEDGER NAME="Input SGST 9%" ACTION="Create">
+                        <NAME>Input SGST 9%</NAME>
                         <PARENT>Duties &amp; Taxes</PARENT>
                         <ISBILLWISEON>No</ISBILLWISEON>
                         <ISUPDATINGTARGETID>No</ISUPDATINGTARGETID>
                         <ASORIGINAL>Yes</ASORIGINAL>
                         <TAXTYPE>GST</TAXTYPE>
                         <GSTDUTYHEAD>State Tax</GSTDUTYHEAD>
-                    </LEDGER>
-                </TALLYMESSAGE>
-                <TALLYMESSAGE xmlns:UDF="TallyUDF">
-                    <LEDGER NAME="RATHORE PAPER MART" ACTION="Create">
-                        <NAME>RATHORE PAPER MART</NAME>
-                        <PARENT>Sundry Creditors</PARENT>
-                        <ISBILLWISEON>Yes</ISBILLWISEON>
-                        <ISUPDATINGTARGETID>No</ISUPDATINGTARGETID>
-                        <ASORIGINAL>Yes</ASORIGINAL>
                     </LEDGER>
                 </TALLYMESSAGE>
             </REQUESTDATA>

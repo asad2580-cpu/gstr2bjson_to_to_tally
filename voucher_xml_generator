@@ -10,8 +10,8 @@ def r2(val):
 
 
 def generate_tally_xml():
-    input_file = 'cleaned_invoices.json'
-    output_file = 'Voucher_import.xml'
+    input_file = 'cleaned_invoices1.json'
+    output_file = 'oct.xml'
 
     if not os.path.exists(input_file):
         print(f"Error: {input_file} not found.")

@@ -3,8 +3,8 @@ import os
 
 def process_gstr2b():
     # File configuration
-    input_filename = 'returns_R2B_07ADLPF8341H1ZH_042025.json'
-    output_filename = 'cleaned_invoices.json'
+    input_filename = 'returns_R2B_07ADLPF8341H1ZH_102025.json'
+    output_filename = 'cleaned_invoices1.json'
 
     # Check if input file exists in root
     if not os.path.exists(input_filename):
