@@ -1,0 +1,5019 @@
+{
+    "data": {
+        "cpSummRej": {
+            "b2b": [
+                {
+                    "sgst": 5.62,
+                    "ttldocs": 10,
+                    "trdnm": "Kotak Mahindra Bank Limited",
+                    "supprd": "122025",
+                    "supfildt": "10-01-2026",
+                    "txval": 62.5,
+                    "ctin": "07AAACK4409J1ZM",
+                    "cgst": 5.63,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 1677.97,
+                    "ttldocs": 1,
+                    "trdnm": "ANSARI TYRES",
+                    "supprd": "122025",
+                    "supfildt": "12-01-2026",
+                    "txval": 18644.06,
+                    "ctin": "07AAUFA2783L1ZT",
+                    "cgst": 1677.97,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 58.63,
+                    "ttldocs": 14,
+                    "trdnm": "Kotak Mahindra Bank Limited",
+                    "supprd": "102025",
+                    "supfildt": "10-11-2025",
+                    "txval": 651.5,
+                    "ctin": "07AAACK4409J1ZM",
+                    "cgst": 58.64,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 45,
+                    "ttldocs": 1,
+                    "trdnm": "TATA CAPITAL HOUSING FINANCE LIMITED",
+                    "supprd": "122025",
+                    "supfildt": "11-01-2026",
+                    "txval": 500,
+                    "ctin": "07AADCT0491L1Z4",
+                    "cgst": 45,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 1.98,
+                    "ttldocs": 4,
+                    "trdnm": "Kotak Mahindra Bank Limited",
+                    "supprd": "112025",
+                    "supfildt": "11-12-2025",
+                    "txval": 22,
+                    "ctin": "07AAACK4409J1ZM",
+                    "cgst": 1.98,
+                    "cess": 0,
+                    "igst": 0
+                }
+            ]
+        },
+        "itcsumm": {
+            "itcavl": {
+                "revsup": {
+                    "sgst": 110,
+                    "b2b": {
+                        "sgst": 110,
+                        "txval": 5400,
+                        "cgst": 110,
+                        "cess": 0,
+                        "igst": 50
+                    },
+                    "txval": 5400,
+                    "cgst": 110,
+                    "cess": 0,
+                    "igst": 50
+                },
+                "nonrevsup": {
+                    "sgst": 155353.39,
+                    "b2b": {
+                        "sgst": 155353.39,
+                        "txval": 2537121.16,
+                        "cgst": 155353.39,
+                        "cess": 0,
+                        "igst": 41603.94
+                    },
+                    "cgst": 155353.39,
+                    "cess": 0,
+                    "igst": 41603.94
+                }
+            },
+            "itcunavl": {
+                "nonrevsup": {
+                    "sgst": 48,
+                    "b2b": {
+                        "sgst": 48,
+                        "txval": 800,
+                        "cgst": 48,
+                        "cess": 0,
+                        "igst": 0
+                    },
+                    "cgst": 48,
+                    "cess": 0,
+                    "igst": 0
+                }
+            },
+            "itcRejected": {
+                "nonrevsup": {
+                    "sgst": 1789.2,
+                    "b2b": {
+                        "sgst": 1789.2,
+                        "txval": 19880.06,
+                        "cgst": 1789.22,
+                        "cess": 0,
+                        "igst": 0
+                    },
+                    "cgst": 1789.22,
+                    "cess": 0,
+                    "igst": 0
+                }
+            }
+        },
+        "docRejdata": {
+            "b2b": [
+                {
+                    "inv": [
+                        {
+                            "dt": "18-11-2025",
+                            "val": 11.8,
+                            "sgst": 0.9,
+                            "pos": "07",
+                            "txval": 10,
+                            "typ": "R",
+                            "cgst": 0.9,
+                            "inum": "KB00001221444747",
+                            "cess": 0,
+                            "igst": 0
+                        },
+                        {
+                            "dt": "18-11-2025",
+                            "val": 5.9,
+                            "sgst": 0.45,
+                            "pos": "07",
+                            "txval": 5,
+                            "typ": "R",
+                            "cgst": 0.45,
+                            "inum": "KB00001221464727",
+                            "cess": 0,
+                            "igst": 0
+                        },
+                        {
+                            "dt": "18-11-2025",
+                            "val": 5.9,
+                            "sgst": 0.45,
+                            "pos": "07",
+                            "txval": 5,
+                            "typ": "R",
+                            "cgst": 0.45,
+                            "inum": "KB00001221795903",
+                            "cess": 0,
+                            "igst": 0
+                        },
+                        {
+                            "dt": "29-11-2025",
+                            "val": 2.36,
+                            "sgst": 0.18,
+                            "pos": "07",
+                            "txval": 2,
+                            "typ": "R",
+                            "cgst": 0.18,
+                            "inum": "KB00001222234264",
+                            "cess": 0,
+                            "igst": 0
+                        }
+                    ],
+                    "trdnm": "Kotak Mahindra Bank Limited",
+                    "supfildt": "11-12-2025",
+                    "supprd": "112025",
+                    "ctin": "07AAACK4409J1ZM"
+                },
+                {
+                    "inv": [
+                        {
+                            "dt": "27-10-2025",
+                            "val": 590,
+                            "sgst": 45,
+                            "pos": "07",
+                            "txval": 500,
+                            "typ": "R",
+                            "cgst": 45,
+                            "inum": "KB00001205650817",
+                            "cess": 0,
+                            "igst": 0
+                        },
+                        {
+                            "dt": "31-10-2025",
+                            "val": 5.9,
+                            "sgst": 0.45,
+                            "pos": "07",
+                            "txval": 5,
+                            "typ": "R",
+                            "cgst": 0.45,
+                            "inum": "KB00001207291523",
+                            "cess": 0,
+                            "igst": 0
+                        },
+                        {
+                            "dt": "27-10-2025",
+                            "val": 5.9,
+                            "sgst": 0.45,
+                            "pos": "07",
+                            "txval": 5,
+                            "typ": "R",
+                            "cgst": 0.45,
+                            "inum": "KB00001207320263",
+                            "cess": 0,
+                            "igst": 0
+                        },
+                        {
+                            "dt": "31-10-2025",
+                            "val": 118,
+                            "sgst": 9,
+                            "pos": "07",
+                            "txval": 100,
+                            "typ": "R",
+                            "cgst": 9,
+                            "inum": "KB00001207505671",
+                            "cess": 0,
+                            "igst": 0
+                        },
+                        {
+                            "dt": "24-10-2025",
+                            "val": 2.36,
+                            "sgst": 0.18,
+                            "pos": "07",
+                            "txval": 2,
+                            "typ": "R",
+                            "cgst": 0.18,
+                            "inum": "KB00001207811715",
+                            "cess": 0,
+                            "igst": 0
+                        },
+                        {
+                            "dt": "27-10-2025",
+                            "val": 5.9,
+                            "sgst": 0.45,
+                            "pos": "07",
+                            "txval": 5,
+                            "typ": "R",
+                            "cgst": 0.45,
+                            "inum": "KB00001207926376",
+                            "cess": 0,
+                            "igst": 0
+                        },
+                        {
+                            "dt": "27-10-2025",
+                            "val": 5.9,
+                            "sgst": 0.45,
+                            "pos": "07",
+                            "txval": 5,
+                            "typ": "R",
+                            "cgst": 0.45,
+                            "inum": "KB00001207986874",
+                            "cess": 0,
+                            "igst": 0
+                        },
+                        {
+                            "dt": "15-10-2025",
+                            "val": 5.9,
+                            "sgst": 0.45,
+                            "pos": "07",
+                            "txval": 5,
+                            "typ": "R",
+                            "cgst": 0.45,
+                            "inum": "KB00001208513268",
+                            "cess": 0,
+                            "igst": 0
+                        },
+                        {
+                            "dt": "15-10-2025",
+                            "val": 5.9,
+                            "sgst": 0.45,
+                            "pos": "07",
+                            "txval": 5,
+                            "typ": "R",
+                            "cgst": 0.45,
+                            "inum": "KB00001208567588",
+                            "cess": 0,
+                            "igst": 0
+                        },
+                        {
+                            "dt": "15-10-2025",
+                            "val": 5.9,
+                            "sgst": 0.45,
+                            "pos": "07",
+                            "txval": 5,
+                            "typ": "R",
+                            "cgst": 0.45,
+                            "inum": "KB00001208601952",
+                            "cess": 0,
+                            "igst": 0
+                        },
+                        {
+                            "dt": "15-10-2025",
+                            "val": 2.95,
+                            "sgst": 0.22,
+                            "pos": "07",
+                            "txval": 2.5,
+                            "typ": "R",
+                            "cgst": 0.23,
+                            "inum": "KB00001208796270",
+                            "cess": 0,
+                            "igst": 0
+                        },
+                        {
+                            "dt": "15-10-2025",
+                            "val": 2.36,
+                            "sgst": 0.18,
+                            "pos": "07",
+                            "txval": 2,
+                            "typ": "R",
+                            "cgst": 0.18,
+                            "inum": "KB00001208815756",
+                            "cess": 0,
+                            "igst": 0
+                        },
+                        {
+                            "dt": "27-10-2025",
+                            "val": 5.9,
+                            "sgst": 0.45,
+                            "pos": "07",
+                            "txval": 5,
+                            "typ": "R",
+                            "cgst": 0.45,
+                            "inum": "KB00001209256829",
+                            "cess": 0,
+                            "igst": 0
+                        },
+                        {
+                            "dt": "27-10-2025",
+                            "val": 5.9,
+                            "sgst": 0.45,
+                            "pos": "07",
+                            "txval": 5,
+                            "typ": "R",
+                            "cgst": 0.45,
+                            "inum": "KB00001209284786",
+                            "cess": 0,
+                            "igst": 0
+                        }
+                    ],
+                    "trdnm": "Kotak Mahindra Bank Limited",
+                    "supfildt": "10-11-2025",
+                    "supprd": "102025",
+                    "ctin": "07AAACK4409J1ZM"
+                },
+                {
+                    "inv": [
+                        {
+                            "dt": "25-12-2025",
+                            "val": 590,
+                            "sgst": 45,
+                            "pos": "07",
+                            "txval": 500,
+                            "typ": "R",
+                            "cgst": 45,
+                            "inum": "900726149000374",
+                            "cess": 0,
+                            "igst": 0
+                        }
+                    ],
+                    "trdnm": "TATA CAPITAL HOUSING FINANCE LIMITED",
+                    "supfildt": "11-01-2026",
+                    "supprd": "122025",
+                    "ctin": "07AADCT0491L1Z4"
+                },
+                {
+                    "inv": [
+                        {
+                            "dt": "10-12-2025",
+                            "val": 11.8,
+                            "sgst": 0.9,
+                            "pos": "07",
+                            "txval": 10,
+                            "typ": "R",
+                            "cgst": 0.9,
+                            "inum": "KB00001234571521",
+                            "cess": 0,
+                            "igst": 0
+                        },
+                        {
+                            "dt": "24-12-2025",
+                            "val": 5.9,
+                            "sgst": 0.45,
+                            "pos": "07",
+                            "txval": 5,
+                            "typ": "R",
+                            "cgst": 0.45,
+                            "inum": "KB00001234854233",
+                            "cess": 0,
+                            "igst": 0
+                        },
+                        {
+                            "dt": "10-12-2025",
+                            "val": 5.9,
+                            "sgst": 0.45,
+                            "pos": "07",
+                            "txval": 5,
+                            "typ": "R",
+                            "cgst": 0.45,
+                            "inum": "KB00001234886727",
+                            "cess": 0,
+                            "igst": 0
+                        },
+                        {
+                            "dt": "10-12-2025",
+                            "val": 5.9,
+                            "sgst": 0.45,
+                            "pos": "07",
+                            "txval": 5,
+                            "typ": "R",
+                            "cgst": 0.45,
+                            "inum": "KB00001235141585",
+                            "cess": 0,
+                            "igst": 0
+                        },
+                        {
+                            "dt": "30-12-2025",
+                            "val": 5.9,
+                            "sgst": 0.45,
+                            "pos": "07",
+                            "txval": 5,
+                            "typ": "R",
+                            "cgst": 0.45,
+                            "inum": "KB00001236122250",
+                            "cess": 0,
+                            "igst": 0
+                        },
+                        {
+                            "dt": "24-12-2025",
+                            "val": 5.9,
+                            "sgst": 0.45,
+                            "pos": "07",
+                            "txval": 5,
+                            "typ": "R",
+                            "cgst": 0.45,
+                            "inum": "KB00001237117689",
+                            "cess": 0,
+                            "igst": 0
+                        },
+                        {
+                            "dt": "17-12-2025",
+                            "val": 2.95,
+                            "sgst": 0.22,
+                            "pos": "07",
+                            "txval": 2.5,
+                            "typ": "R",
+                            "cgst": 0.23,
+                            "inum": "KB00001237651250",
+                            "cess": 0,
+                            "igst": 0
+                        },
+                        {
+                            "dt": "31-12-2025",
+                            "val": 11.8,
+                            "sgst": 0.9,
+                            "pos": "07",
+                            "txval": 10,
+                            "typ": "R",
+                            "cgst": 0.9,
+                            "inum": "KB00001244389410",
+                            "cess": 0,
+                            "igst": 0
+                        },
+                        {
+                            "dt": "31-12-2025",
+                            "val": 11.8,
+                            "sgst": 0.9,
+                            "pos": "07",
+                            "txval": 10,
+                            "typ": "R",
+                            "cgst": 0.9,
+                            "inum": "KB00001244400777",
+                            "cess": 0,
+                            "igst": 0
+                        },
+                        {
+                            "dt": "31-12-2025",
+                            "val": 5.9,
+                            "sgst": 0.45,
+                            "pos": "07",
+                            "txval": 5,
+                            "typ": "R",
+                            "cgst": 0.45,
+                            "inum": "KB00001244544160",
+                            "cess": 0,
+                            "igst": 0
+                        }
+                    ],
+                    "trdnm": "Kotak Mahindra Bank Limited",
+                    "supfildt": "10-01-2026",
+                    "supprd": "122025",
+                    "ctin": "07AAACK4409J1ZM"
+                },
+                {
+                    "inv": [
+                        {
+                            "dt": "26-12-2025",
+                            "val": 22000,
+                            "sgst": 1677.97,
+                            "pos": "07",
+                            "txval": 18644.06,
+                            "typ": "R",
+                            "cgst": 1677.97,
+                            "inum": "001484/2025-26",
+                            "cess": 0,
+                            "igst": 0
+                        }
+                    ],
+                    "trdnm": "ANSARI TYRES",
+                    "supfildt": "12-01-2026",
+                    "supprd": "122025",
+                    "ctin": "07AAUFA2783L1ZT"
+                }
+            ]
+        },
+        "rtnprd": "122025",
+        "docdata": {
+            "b2b": [
+                {
+                    "inv": [
+                        {
+                            "val": 1947,
+                            "sgst": 148.5,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 1650,
+                            "typ": "R",
+                            "cgst": 148.5,
+                            "inum": "BECO/25-26/4582",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "07-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 11210,
+                            "sgst": 855,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 9500,
+                            "typ": "R",
+                            "cgst": 855,
+                            "inum": "BECO/25-26/4980",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "30-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "BRITISH ENGINEERING COMPANY",
+                    "supfildt": "10-11-2025",
+                    "supprd": "102025",
+                    "ctin": "07AFNPM5355A1ZI"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 23310,
+                            "sgst": 555,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "irn": "9bac7108e175bfac9c9a9ac1757d1644a0c2671c560b341fa5ab00914de5660c",
+                            "txval": 22200,
+                            "typ": "R",
+                            "cgst": 555,
+                            "irngendate": "03-11-2025",
+                            "inum": "GST-004047",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "03-11-2025",
+                            "imsStatus": "A",
+                            "pos": "07",
+                            "srctyp": "E-Invoice"
+                        }
+                    ],
+                    "trdnm": "SIDDHI VINAYAK WELDING & SAFETY",
+                    "supfildt": "10-12-2025",
+                    "supprd": "112025",
+                    "ctin": "07AVHPB1996L1Z8"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 22656,
+                            "sgst": 1728,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "irn": "7ccfb161016d54dcd56a9308049e9ad1118d85747690b54217d269b4cfc48754",
+                            "txval": 19200,
+                            "typ": "R",
+                            "cgst": 1728,
+                            "irngendate": "18-12-2025",
+                            "inum": "VW1206/2025-26",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "18-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07",
+                            "srctyp": "E-Invoice"
+                        }
+                    ],
+                    "trdnm": "VIKAS WELDING & CO.",
+                    "supfildt": "06-01-2026",
+                    "supprd": "122025",
+                    "ctin": "07ALZPM7027R1ZX"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 16700,
+                            "sgst": 0,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 15904.76,
+                            "typ": "R",
+                            "cgst": 0,
+                            "inum": "261",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 795.24,
+                            "dt": "23-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "SRI SAI SRISHTI BATTERY AND ELECTRONICS",
+                    "supfildt": "18-11-2025",
+                    "supprd": "102025",
+                    "ctin": "09AQIPD9949F2ZE"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 32059,
+                            "sgst": 2445.19,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 27168.75,
+                            "typ": "R",
+                            "cgst": 2445.19,
+                            "inum": "256",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "25-11-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "FINE CURVES TRADERS",
+                    "supfildt": "12-12-2025",
+                    "supprd": "112025",
+                    "ctin": "07AOJPK6092F1ZR"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 4725,
+                            "sgst": 112.5,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 4500,
+                            "typ": "R",
+                            "cgst": 112.5,
+                            "inum": "119",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "08-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "Duplon Safewear",
+                    "supfildt": "06-11-2025",
+                    "supprd": "102025",
+                    "ctin": "07BSDPJ8901R1Z6"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 28350,
+                            "sgst": 675,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 27000,
+                            "typ": "R",
+                            "cgst": 675,
+                            "inum": "365",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "08-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 21262.5,
+                            "sgst": 506.25,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 20250,
+                            "typ": "R",
+                            "cgst": 506.25,
+                            "inum": "406",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "25-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "ANUSHKA SAFETY WORK'S",
+                    "supfildt": "11-01-2026",
+                    "supprd": "122025",
+                    "ctin": "07GRFPK2574B1ZW"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 7363,
+                            "sgst": 561.6,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 6240,
+                            "typ": "R",
+                            "cgst": 561.6,
+                            "inum": "RSC/25-26/5708",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "08-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "ROHIT SALES CORPORATION",
+                    "supfildt": "05-01-2026",
+                    "supprd": "122025",
+                    "ctin": "07AAJPA8741P1Z9"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 29500,
+                            "sgst": 2250,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 25000,
+                            "typ": "R",
+                            "cgst": 2250,
+                            "inum": "108/2025-26",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "29-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "TUTEJA WELD MANUFACTURING CO",
+                    "supfildt": "10-01-2026",
+                    "supprd": "122025",
+                    "ctin": "07AEFPT0632N1Z8"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 8968,
+                            "sgst": 684,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 7600,
+                            "typ": "R",
+                            "cgst": 684,
+                            "inum": "QHS/25-26/20102",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "16-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "QUALITY HARDWARE STORE",
+                    "supfildt": "11-11-2025",
+                    "supprd": "102025",
+                    "ctin": "07AAHPA5687N1Z8"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 67555,
+                            "sgst": 5152.5,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 57250,
+                            "typ": "R",
+                            "cgst": 5152.5,
+                            "inum": "1257",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "06-09-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 32568,
+                            "sgst": 2484,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 27600,
+                            "typ": "R",
+                            "cgst": 2484,
+                            "inum": "1271",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "24-09-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 16284,
+                            "sgst": 1242,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 13800,
+                            "typ": "R",
+                            "cgst": 1242,
+                            "inum": "1274",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "26-09-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "K.R.ENTERPRISES",
+                    "supfildt": "13-10-2025",
+                    "supprd": "092025",
+                    "ctin": "07GDAPK3600M1ZM"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 30450,
+                            "sgst": 725,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 29000,
+                            "typ": "R",
+                            "cgst": 725,
+                            "inum": "446",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "10-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "DUPLON KNITWEARS",
+                    "supfildt": "06-11-2025",
+                    "supprd": "102025",
+                    "ctin": "07BIQPJ4847K1ZM"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 6785,
+                            "sgst": 517.5,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "irn": "56d188d3bb8e7b53acd623397cf211b631ea4aba03a4564adbe5aaf36b183de1",
+                            "txval": 5750,
+                            "typ": "R",
+                            "cgst": 517.5,
+                            "irngendate": "16-12-2025",
+                            "inum": "CMI/25-26/971",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "16-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07",
+                            "srctyp": "E-Invoice"
+                        }
+                    ],
+                    "trdnm": "CHECKMATE INDIA",
+                    "supfildt": "07-01-2026",
+                    "supprd": "122025",
+                    "ctin": "07AAHFC2758G2ZF"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 15340,
+                            "sgst": 1170,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 13000,
+                            "typ": "R",
+                            "cgst": 1170,
+                            "inum": "511/2025-26",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "16-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "HARE KRISHNA INDUSTRIES",
+                    "supfildt": "08-01-2026",
+                    "supprd": "122025",
+                    "ctin": "07AFXPT0746A1Z8"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 18900,
+                            "sgst": 450,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 18000,
+                            "typ": "R",
+                            "cgst": 450,
+                            "inum": "318",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "07-11-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "ANUSHKA SAFETY WORK'S",
+                    "supfildt": "11-12-2025",
+                    "supprd": "112025",
+                    "ctin": "07GRFPK2574B1ZW"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 4130,
+                            "sgst": 315,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "irn": "8c7dde725168a2b8cd57064075405f2fda3cc2a451d729a2c8798e8779da593d",
+                            "txval": 3500,
+                            "typ": "R",
+                            "cgst": 315,
+                            "irngendate": "08-12-2025",
+                            "inum": "GST-004822",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "08-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07",
+                            "srctyp": "E-Invoice"
+                        }
+                    ],
+                    "trdnm": "SIDDHI VINAYAK WELDING & SAFETY",
+                    "supfildt": "10-01-2026",
+                    "supprd": "122025",
+                    "ctin": "07AVHPB1996L1Z8"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 9971,
+                            "sgst": 760.5,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 8450,
+                            "typ": "R",
+                            "cgst": 760.5,
+                            "inum": "PR/2025-26/1183",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "03-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "PR INDUSTRIES",
+                    "supfildt": "10-01-2026",
+                    "supprd": "122025",
+                    "ctin": "07ABBFP8975D1ZY"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 10195,
+                            "sgst": 777.6,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 8640,
+                            "typ": "R",
+                            "cgst": 777.6,
+                            "inum": "2025-26/2982",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "14-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 8071,
+                            "sgst": 615.6,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 6840,
+                            "typ": "R",
+                            "cgst": 615.6,
+                            "inum": "2025-26/3017",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "16-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "Prenav India Private Limited",
+                    "supfildt": "10-11-2025",
+                    "supprd": "102025",
+                    "ctin": "07AAKCP7380F1Z4"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 17564.3,
+                            "sgst": 0,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 14885,
+                            "typ": "R",
+                            "cgst": 0,
+                            "inum": "SBI/2025-26/0120",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 2679.3,
+                            "dt": "12-11-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "M/S SHRI BALAJI INDUSTRIES",
+                    "supfildt": "09-12-2025",
+                    "supprd": "112025",
+                    "ctin": "05AFPFS3969G1ZF"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 5251,
+                            "sgst": 400.5,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 4450,
+                            "typ": "R",
+                            "cgst": 400.5,
+                            "inum": "10085",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "25-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 8968,
+                            "sgst": 684,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 7600,
+                            "typ": "R",
+                            "cgst": 684,
+                            "inum": "9823",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "15-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "RR WELDING CORPORATION",
+                    "supfildt": "08-11-2025",
+                    "supprd": "102025",
+                    "ctin": "07AFUPS5090M1ZG"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 2022062740,
+                            "sgst": 48,
+                            "rev": "N",
+                            "itcavl": "N",
+                            "txval": 800,
+                            "typ": "R",
+                            "cgst": 48,
+                            "inum": "2022062740",
+                            "rsn": "P",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "03-09-2025",
+                            "imsStatus": "N",
+                            "pos": "29"
+                        }
+                    ],
+                    "trdnm": "HOTEL LALITH MAHAL",
+                    "supfildt": "16-10-2025",
+                    "supprd": "092025",
+                    "ctin": "29AAAFH9110J1ZD"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 408,
+                            "sgst": 31.05,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "irn": "2d2b5d5c6662c182b06fa6d0af403083b161aa9bf39598f85ad3c369e90019be",
+                            "txval": 345,
+                            "typ": "R",
+                            "cgst": 31.05,
+                            "irngendate": "03-10-2025",
+                            "inum": "STC/25-26/7040",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "03-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07",
+                            "srctyp": "E-Invoice"
+                        },
+                        {
+                            "val": 9735,
+                            "sgst": 742.5,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "irn": "3b2f6a1b693ab789e8d30ae03be4e1798218e60ab65fb64a072c394777374f89",
+                            "txval": 8250,
+                            "typ": "R",
+                            "cgst": 742.5,
+                            "irngendate": "16-10-2025",
+                            "inum": "STC/25-26/7602",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "16-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07",
+                            "srctyp": "E-Invoice"
+                        }
+                    ],
+                    "trdnm": "SANSKAR TRADING COMPANY",
+                    "supfildt": "10-11-2025",
+                    "supprd": "102025",
+                    "ctin": "07AAKPG2968F1ZM"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 3540,
+                            "sgst": 270,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "irn": "8c70a031b1ce9a97d486f94720bd5cc2cb4293d923c631a79853ad3d3ea7841d",
+                            "txval": 3000,
+                            "typ": "R",
+                            "cgst": 270,
+                            "irngendate": "03-11-2025",
+                            "inum": "BO25261598",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "03-11-2025",
+                            "imsStatus": "A",
+                            "pos": "07",
+                            "srctyp": "E-Invoice"
+                        }
+                    ],
+                    "trdnm": "G A Tools & Abrasives",
+                    "supfildt": "11-12-2025",
+                    "supprd": "112025",
+                    "ctin": "07AAHPG4733B2Z5"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 5900,
+                            "sgst": 450,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 5000,
+                            "typ": "R",
+                            "cgst": 450,
+                            "inum": "BPT/25-26/1526",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "01-11-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 10856,
+                            "sgst": 828,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 9200,
+                            "typ": "R",
+                            "cgst": 828,
+                            "inum": "BPT/25-26/1685",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "26-11-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "BEST POWER TOOLS",
+                    "supfildt": "13-12-2025",
+                    "supprd": "112025",
+                    "ctin": "07AQXPA7752N1Z1"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 5782,
+                            "sgst": 441,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 4900,
+                            "typ": "R",
+                            "cgst": 441,
+                            "inum": "2025-26/514",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "16-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "DURGA RUBBER INDUSTRIES",
+                    "supfildt": "10-01-2026",
+                    "supprd": "122025",
+                    "ctin": "07APPPG8618G1ZL"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 17936,
+                            "sgst": 1368,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "irn": "9e38af885bd05cafd233064b6e21350a39b46b570497c0ff981bac4e4a836bda",
+                            "txval": 15200,
+                            "typ": "R",
+                            "cgst": 1368,
+                            "irngendate": "23-12-2025",
+                            "inum": "2303",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "23-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07",
+                            "srctyp": "E-Invoice"
+                        },
+                        {
+                            "val": 38468,
+                            "sgst": 2934,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "irn": "d97a9b87e4122e6db86ce440843f0321f7d5f16c0f795d73453fc11ef6c46558",
+                            "txval": 32600,
+                            "typ": "R",
+                            "cgst": 2934,
+                            "irngendate": "29-12-2025",
+                            "inum": "2354",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "29-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07",
+                            "srctyp": "E-Invoice"
+                        }
+                    ],
+                    "trdnm": "GUPTA INDUSTRIAL CORPORATION",
+                    "supfildt": "06-01-2026",
+                    "supprd": "122025",
+                    "ctin": "07AAUFG2184K1ZU"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 13452,
+                            "sgst": 1026,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 11400,
+                            "typ": "R",
+                            "cgst": 1026,
+                            "inum": "667",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "04-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 4484,
+                            "sgst": 342,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 3800,
+                            "typ": "R",
+                            "cgst": 342,
+                            "inum": "702",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "16-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "AMBAY INDUSTRIAL CORPORATION",
+                    "supfildt": "07-01-2026",
+                    "supprd": "122025",
+                    "ctin": "07AJZPB6554G1ZT"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 2950,
+                            "sgst": 0,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 2500,
+                            "typ": "R",
+                            "cgst": 0,
+                            "inum": "01816191939",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 450,
+                            "dt": "01-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 2950,
+                            "sgst": 0,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 2500,
+                            "typ": "R",
+                            "cgst": 0,
+                            "inum": "01816245685",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 450,
+                            "dt": "30-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "INDIAMART INTERMESH LTD.",
+                    "supfildt": "08-11-2025",
+                    "supprd": "102025",
+                    "ctin": "09AAACI5853L2Z5"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 5428,
+                            "sgst": 414,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 4600,
+                            "typ": "R",
+                            "cgst": 414,
+                            "inum": "GE/01015/2025-26",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "04-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 4543,
+                            "sgst": 346.5,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 3850,
+                            "typ": "R",
+                            "cgst": 346.5,
+                            "inum": "GE/01119/2025-26",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "23-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 3186,
+                            "sgst": 243,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 2700,
+                            "typ": "R",
+                            "cgst": 243,
+                            "inum": "GE/01160/2025-26",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "29-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "GULSHAN ENTERPRISES",
+                    "supfildt": "11-01-2026",
+                    "supprd": "122025",
+                    "ctin": "07AFNPW0864Q1ZF"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 2163,
+                            "sgst": 51.5,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 2060,
+                            "typ": "R",
+                            "cgst": 51.5,
+                            "inum": "STC/25-26/2318",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "01-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "SHARMA TRADING COMPANY",
+                    "supfildt": "11-01-2026",
+                    "supprd": "122025",
+                    "ctin": "07ADWFS9606D1ZK"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 42008,
+                            "sgst": 3204,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 35600,
+                            "typ": "R",
+                            "cgst": 3204,
+                            "inum": "218/2025-26",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "26-11-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "BANSAL TOOLS",
+                    "supfildt": "11-12-2025",
+                    "supprd": "112025",
+                    "ctin": "07BQGPB3565E1Z4"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 10901,
+                            "sgst": 831.42,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 9238,
+                            "typ": "R",
+                            "cgst": 831.42,
+                            "inum": "602",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "04-11-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "ALLIANCE TOOLS",
+                    "supfildt": "08-12-2025",
+                    "supprd": "112025",
+                    "ctin": "07ANUPC4675J1ZG"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 39825,
+                            "sgst": 0,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 33750,
+                            "typ": "R",
+                            "cgst": 0,
+                            "inum": "25-26/DR/158",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 6075,
+                            "dt": "18-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "DIAMOND RUBBERS",
+                    "supfildt": "09-01-2026",
+                    "supprd": "122025",
+                    "ctin": "03AAAFD5827E1ZY"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 17110,
+                            "sgst": 1305,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 14500,
+                            "typ": "R",
+                            "cgst": 1305,
+                            "inum": "2303",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "07-11-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 16225,
+                            "sgst": 1237.5,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 13750,
+                            "typ": "R",
+                            "cgst": 1237.5,
+                            "inum": "2374",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "13-11-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 18762,
+                            "sgst": 1431,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 15900,
+                            "typ": "R",
+                            "cgst": 1431,
+                            "inum": "2395",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "14-11-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 15104,
+                            "sgst": 1152,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 12800,
+                            "typ": "R",
+                            "cgst": 1152,
+                            "inum": "2413",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "17-11-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 5664,
+                            "sgst": 432,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 4800,
+                            "typ": "R",
+                            "cgst": 432,
+                            "inum": "2431",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "18-11-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 15104,
+                            "sgst": 1152,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 12800,
+                            "typ": "R",
+                            "cgst": 1152,
+                            "inum": "2449",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "19-11-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 3186,
+                            "sgst": 243,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 2700,
+                            "typ": "R",
+                            "cgst": 243,
+                            "inum": "2490",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "22-11-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 5664,
+                            "sgst": 432,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 4800,
+                            "typ": "R",
+                            "cgst": 432,
+                            "inum": "2516",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "25-11-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 43306,
+                            "sgst": 3303,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 36700,
+                            "typ": "R",
+                            "cgst": 3303,
+                            "inum": "2527",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "26-11-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 6490,
+                            "sgst": 495,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 5500,
+                            "typ": "R",
+                            "cgst": 495,
+                            "inum": "2535",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "27-11-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 11122,
+                            "sgst": 848.25,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 9425,
+                            "typ": "R",
+                            "cgst": 848.25,
+                            "inum": "2544",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "27-11-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 2301,
+                            "sgst": 175.5,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 1950,
+                            "typ": "R",
+                            "cgst": 175.5,
+                            "inum": "2560",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "29-11-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "SANTOSH TRADING COMPANY",
+                    "supfildt": "09-12-2025",
+                    "supprd": "112025",
+                    "ctin": "07AFVPA1770P1ZW"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 23625,
+                            "sgst": 562.5,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 22500,
+                            "typ": "R",
+                            "cgst": 562.5,
+                            "inum": "SSSPV/25-26/2848",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "15-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 5197.5,
+                            "sgst": 123.75,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 4950,
+                            "typ": "R",
+                            "cgst": 123.75,
+                            "inum": "SSSPV/25-26/2993",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "30-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "SRYARHAM SAFETY SOLUTION PRIVATE LIMITED",
+                    "supfildt": "11-11-2025",
+                    "supprd": "102025",
+                    "ctin": "07AAUCS0417L1ZY"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 30429,
+                            "sgst": 724.5,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 28980,
+                            "typ": "R",
+                            "cgst": 724.5,
+                            "inum": "SSSPV/25-26/3547",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "03-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 12474,
+                            "sgst": 297,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 11880,
+                            "typ": "R",
+                            "cgst": 297,
+                            "inum": "SSSPV/25-26/3554",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "04-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 4158,
+                            "sgst": 99,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 3960,
+                            "typ": "R",
+                            "cgst": 99,
+                            "inum": "SSSPV/25-26/3821",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "22-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 12474,
+                            "sgst": 297,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 11880,
+                            "typ": "R",
+                            "cgst": 297,
+                            "inum": "SSSPV/25-26/3861",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "24-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 4158,
+                            "sgst": 99,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 3960,
+                            "typ": "R",
+                            "cgst": 99,
+                            "inum": "SSSPV/25-26/3883",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "24-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "SRYARHAM SAFETY SOLUTION PRIVATE LIMITED",
+                    "supfildt": "05-01-2026",
+                    "supprd": "122025",
+                    "ctin": "07AAUCS0417L1ZY"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 13230,
+                            "sgst": 315,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "irn": "bb962e9461fd106dea76d9a8a7220039ade5b5e3747cd74e4288f259da4e2218",
+                            "txval": 12600,
+                            "typ": "R",
+                            "cgst": 315,
+                            "irngendate": "30-10-2025",
+                            "inum": "GST-003983",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "30-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07",
+                            "srctyp": "E-Invoice"
+                        }
+                    ],
+                    "trdnm": "SIDDHI VINAYAK WELDING & SAFETY",
+                    "supfildt": "10-11-2025",
+                    "supprd": "102025",
+                    "ctin": "07AVHPB1996L1Z8"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 8909,
+                            "sgst": 679.5,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 7550,
+                            "typ": "R",
+                            "cgst": 679.5,
+                            "inum": "1963",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "04-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 9912,
+                            "sgst": 756,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 8400,
+                            "typ": "R",
+                            "cgst": 756,
+                            "inum": "2001",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "08-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 5664,
+                            "sgst": 432,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 4800,
+                            "typ": "R",
+                            "cgst": 432,
+                            "inum": "2008",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "08-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 15104,
+                            "sgst": 1152,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 12800,
+                            "typ": "R",
+                            "cgst": 1152,
+                            "inum": "2076",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "14-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 5664,
+                            "sgst": 432,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 4800,
+                            "typ": "R",
+                            "cgst": 432,
+                            "inum": "2093",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "15-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 5664,
+                            "sgst": 432,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 4800,
+                            "typ": "R",
+                            "cgst": 432,
+                            "inum": "2096",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "15-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 30621,
+                            "sgst": 2335.5,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 25950,
+                            "typ": "R",
+                            "cgst": 2335.5,
+                            "inum": "2112",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "16-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 32320,
+                            "sgst": 2465.1,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 27390,
+                            "typ": "R",
+                            "cgst": 2465.1,
+                            "inum": "2166",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "27-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 23836,
+                            "sgst": 1818,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 20200,
+                            "typ": "R",
+                            "cgst": 1818,
+                            "inum": "2176",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "28-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "SANTOSH TRADING COMPANY",
+                    "supfildt": "11-11-2025",
+                    "supprd": "102025",
+                    "ctin": "07AFVPA1770P1ZW"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 42701,
+                            "sgst": 3256.79,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "irn": "f278c2369a7c58843306efb3bf2a5eac8fb5d8ca8517da56d7d77fd8a260a5b3",
+                            "txval": 36186.5,
+                            "typ": "R",
+                            "cgst": 3256.79,
+                            "irngendate": "03-11-2025",
+                            "inum": "STC/25-26/8127",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "03-11-2025",
+                            "imsStatus": "A",
+                            "pos": "07",
+                            "srctyp": "E-Invoice"
+                        }
+                    ],
+                    "trdnm": "SANSKAR TRADING COMPANY",
+                    "supfildt": "08-12-2025",
+                    "supprd": "112025",
+                    "ctin": "07AAKPG2968F1ZM"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 8260,
+                            "sgst": 0,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 7000,
+                            "typ": "R",
+                            "cgst": 0,
+                            "inum": "1",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 1260,
+                            "dt": "29-08-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "M R SALES CORPORATION",
+                    "supfildt": "15-10-2025",
+                    "supprd": "082025",
+                    "ctin": "23AYDPA0984A1Z6"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 14278,
+                            "sgst": 1089,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 12100,
+                            "typ": "R",
+                            "cgst": 1089,
+                            "inum": "GE/0951/2025-26",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "20-11-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "GULSHAN ENTERPRISES",
+                    "supfildt": "09-12-2025",
+                    "supprd": "112025",
+                    "ctin": "07AFNPW0864Q1ZF"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 4720,
+                            "sgst": 360,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 4000,
+                            "typ": "R",
+                            "cgst": 360,
+                            "inum": "JEC/25-26/7202",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "13-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "JIYA ENGINEERING COMPANY",
+                    "supfildt": "09-01-2026",
+                    "supprd": "122025",
+                    "ctin": "07AAPFJ8562M1ZI"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 32568,
+                            "sgst": 2484,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 27600,
+                            "typ": "R",
+                            "cgst": 2484,
+                            "inum": "243/2025-26",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "13-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 69325,
+                            "sgst": 5287.5,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 58750,
+                            "typ": "R",
+                            "cgst": 5287.5,
+                            "inum": "257/2025-26",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "31-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "BANSAL TOOLS",
+                    "supfildt": "11-01-2026",
+                    "supprd": "122025",
+                    "ctin": "07BQGPB3565E1Z4"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 10900,
+                            "sgst": 831.33,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 9237,
+                            "typ": "R",
+                            "cgst": 831.33,
+                            "inum": "744",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "19-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "ALLIANCE TOOLS",
+                    "supfildt": "08-01-2026",
+                    "supprd": "122025",
+                    "ctin": "07ANUPC4675J1ZG"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 4674.99,
+                            "sgst": 356.57,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 3961.86,
+                            "typ": "R",
+                            "cgst": 356.57,
+                            "inum": "SC564",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "19-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 5390,
+                            "sgst": 411.1,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 4567.8,
+                            "typ": "R",
+                            "cgst": 411.1,
+                            "inum": "SC566",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "20-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "KEMP AND CO LTD",
+                    "supfildt": "09-01-2026",
+                    "supprd": "122025",
+                    "ctin": "07AAACK2249L1ZG"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 2006,
+                            "sgst": 153,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "irn": "63094c6d7ca121f835aeca519a349ba6bad6a584f9c5b710d9668bf7a2c74d47",
+                            "txval": 1700,
+                            "typ": "R",
+                            "cgst": 153,
+                            "irngendate": "04-12-2025",
+                            "inum": "BO25261760",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "04-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07",
+                            "srctyp": "E-Invoice"
+                        }
+                    ],
+                    "trdnm": "G A Tools & Abrasives",
+                    "supfildt": "11-01-2026",
+                    "supprd": "122025",
+                    "ctin": "07AAHPG4733B2Z5"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 10856,
+                            "sgst": 828,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 9200,
+                            "typ": "R",
+                            "cgst": 828,
+                            "inum": "BPT/25-26/1885",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "23-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "BEST POWER TOOLS",
+                    "supfildt": "13-01-2026",
+                    "supprd": "122025",
+                    "ctin": "07AQXPA7752N1Z1"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 60480,
+                            "sgst": 1440,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 57600,
+                            "typ": "R",
+                            "cgst": 1440,
+                            "inum": "SSSPV/25-26/3026",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "01-11-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 6237,
+                            "sgst": 148.5,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 5940,
+                            "typ": "R",
+                            "cgst": 148.5,
+                            "inum": "SSSPV/25-26/3228",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "14-11-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 23625,
+                            "sgst": 562.5,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 22500,
+                            "typ": "R",
+                            "cgst": 562.5,
+                            "inum": "SSSPV/25-26/3345",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "21-11-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "SRYARHAM SAFETY SOLUTION PRIVATE LIMITED",
+                    "supfildt": "11-12-2025",
+                    "supprd": "112025",
+                    "ctin": "07AAUCS0417L1ZY"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 1100,
+                            "sgst": 91.53,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "irn": "64939cd69b3852ac43d8e32b40b34ba9a230043da013ee336fd04e7d2cfa59ee",
+                            "txval": 1016.95,
+                            "typ": "R",
+                            "cgst": 91.53,
+                            "irngendate": "11-10-2025",
+                            "inum": "JI/2025-26/1072",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "11-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07",
+                            "srctyp": "E-Invoice"
+                        }
+                    ],
+                    "trdnm": "JANAK INFOTECH",
+                    "supfildt": "11-11-2025",
+                    "supprd": "102025",
+                    "ctin": "07AGVPG3626M1ZV"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 36816,
+                            "sgst": 0,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 31200,
+                            "typ": "R",
+                            "cgst": 0,
+                            "inum": "9",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 5616,
+                            "dt": "28-07-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "EXTRA POWER ENTERPRISES",
+                    "supfildt": "11-11-2025",
+                    "supprd": "102025",
+                    "ctin": "09ADVPF8775H1ZP"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 10500,
+                            "sgst": 250,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 10000,
+                            "typ": "R",
+                            "cgst": 250,
+                            "inum": "2294",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "06-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "MAYANK TRADERS",
+                    "supfildt": "08-01-2026",
+                    "supprd": "122025",
+                    "ctin": "07AEGPG0574D1ZW"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 29500,
+                            "sgst": 2250,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 25000,
+                            "typ": "R",
+                            "cgst": 2250,
+                            "inum": "943",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "15-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "ADAM ELECTRICALS & SERVICES",
+                    "supfildt": "10-11-2025",
+                    "supprd": "102025",
+                    "ctin": "07NIMPS7347H1ZB"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 2950,
+                            "sgst": 0,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "irn": "26f7b0693bc9d97094293cd6a3dd72b55abb1ee6a82712fabc6efb67ce89c1b0",
+                            "txval": 2500,
+                            "typ": "R",
+                            "cgst": 0,
+                            "irngendate": "01-12-2025",
+                            "inum": "1816307109",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 450,
+                            "dt": "01-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07",
+                            "srctyp": "E-Invoice"
+                        },
+                        {
+                            "val": 2950,
+                            "sgst": 0,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "irn": "7aa8833172852ac34a3c3b7fa96309612ba3642f034c7cfdeb1b6485cc924b48",
+                            "txval": 2500,
+                            "typ": "R",
+                            "cgst": 0,
+                            "irngendate": "01-01-2026",
+                            "inum": "1816364946",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 450,
+                            "dt": "31-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07",
+                            "srctyp": "E-Invoice"
+                        }
+                    ],
+                    "trdnm": "INDIAMART INTERMESH LTD.",
+                    "supfildt": "07-01-2026",
+                    "supprd": "122025",
+                    "ctin": "09AAACI5853L2Z5"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 28532,
+                            "sgst": 0,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 24180,
+                            "typ": "R",
+                            "cgst": 0,
+                            "inum": "229",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 4352.4,
+                            "dt": "26-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "M/S RAINBOW WELDING CORP",
+                    "supfildt": "11-01-2026",
+                    "supprd": "122025",
+                    "ctin": "09ANGPM3340Q1ZI"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 50232,
+                            "sgst": 3831.3,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 42570,
+                            "typ": "R",
+                            "cgst": 3831.3,
+                            "inum": "SWP/GST/1651",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "17-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "SANJAY WELDING  PRODUCATS",
+                    "supfildt": "10-11-2025",
+                    "supprd": "102025",
+                    "ctin": "07AAIPM3922F1ZU"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 4620,
+                            "sgst": 110,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 4400,
+                            "typ": "R",
+                            "cgst": 110,
+                            "inum": "1010",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "09-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "CHAMPION TRADING CO.",
+                    "supfildt": "06-01-2026",
+                    "supprd": "122025",
+                    "ctin": "07AAJFC3288R1ZO"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 12980,
+                            "sgst": 990,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 11000,
+                            "typ": "R",
+                            "cgst": 990,
+                            "inum": "2997",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "01-11-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "SHANTI UDYOG WELDSAFE PVT. LTD.",
+                    "supfildt": "09-12-2025",
+                    "supprd": "112025",
+                    "ctin": "07AAJCA6438N1Z6"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 2898,
+                            "sgst": 69,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "irn": "a115c247c76c426c50a97560419bb212b9b2730d9a0e40b31cf246173e1ed708",
+                            "txval": 2760,
+                            "typ": "R",
+                            "cgst": 69,
+                            "irngendate": "03-12-2025",
+                            "inum": "GSE/25-26/6414",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "03-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07",
+                            "srctyp": "E-Invoice"
+                        },
+                        {
+                            "val": 12096,
+                            "sgst": 288,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "irn": "a474ec8187353b5999a393dbacfb0b639312597a1b7cbdf43774372b9e4bf771",
+                            "txval": 11520,
+                            "typ": "R",
+                            "cgst": 288,
+                            "irngendate": "04-12-2025",
+                            "inum": "GSE/25-26/6438",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "04-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07",
+                            "srctyp": "E-Invoice"
+                        },
+                        {
+                            "val": 11592,
+                            "sgst": 276,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "irn": "38e58d0e4878ada8435a4ea6c5dc9b2e5d1442b949c5e7b0d8a8564207c70fd9",
+                            "txval": 11040,
+                            "typ": "R",
+                            "cgst": 276,
+                            "irngendate": "18-12-2025",
+                            "inum": "GSE/25-26/6913",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "18-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07",
+                            "srctyp": "E-Invoice"
+                        }
+                    ],
+                    "trdnm": "G.S. ENGINEERING CO.",
+                    "supfildt": "08-01-2026",
+                    "supprd": "122025",
+                    "ctin": "07BQQPS0315B1Z1"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 5544,
+                            "sgst": 132,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 5280,
+                            "typ": "R",
+                            "cgst": 132,
+                            "inum": "565",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "08-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "V Jain Safety",
+                    "supfildt": "12-11-2025",
+                    "supprd": "102025",
+                    "ctin": "07CJZPJ7953D1ZK"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 9240,
+                            "sgst": 220,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 8800,
+                            "typ": "R",
+                            "cgst": 220,
+                            "inum": "868",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "30-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "CHAMPION TRADING CO.",
+                    "supfildt": "07-11-2025",
+                    "supprd": "102025",
+                    "ctin": "07AAJFC3288R1ZO"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 18408,
+                            "sgst": 1404,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 15600,
+                            "typ": "R",
+                            "cgst": 1404,
+                            "inum": "SSC/25-26/3116",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "24-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "SHREE SHYAM PETROLEUM CORPORATION",
+                    "supfildt": "09-01-2026",
+                    "supprd": "122025",
+                    "ctin": "07DEXPG8583N1ZA"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 73160,
+                            "sgst": 5580,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 62000,
+                            "typ": "R",
+                            "cgst": 5580,
+                            "inum": "216",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "16-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "DIVINE CABLE PRODUCTS",
+                    "supfildt": "05-11-2025",
+                    "supprd": "102025",
+                    "ctin": "07AAKHD4746E1ZC"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 105610,
+                            "sgst": 0,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 89500,
+                            "typ": "R",
+                            "cgst": 0,
+                            "inum": "76",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 16110,
+                            "dt": "31-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "R.G WELD ENGINEERING WORKS",
+                    "supfildt": "06-11-2025",
+                    "supprd": "102025",
+                    "ctin": "09BPCPD9914A1Z7"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 96760,
+                            "sgst": 7380,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 82000,
+                            "typ": "R",
+                            "cgst": 7380,
+                            "inum": "2708",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "15-11-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "SAWHNEY TRADING COMPANY",
+                    "supfildt": "09-12-2025",
+                    "supprd": "112025",
+                    "ctin": "07BMVPS7428C1ZI"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 5544,
+                            "sgst": 132,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 5280,
+                            "typ": "R",
+                            "cgst": 132,
+                            "inum": "666",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "17-11-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "V Jain Safety",
+                    "supfildt": "03-12-2025",
+                    "supprd": "112025",
+                    "ctin": "07CJZPJ7953D1ZK"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 249900,
+                            "sgst": 5950,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 238000,
+                            "typ": "R",
+                            "cgst": 5950,
+                            "inum": "SSI/25-26/3286",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "13-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 62475,
+                            "sgst": 1487.5,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 59500,
+                            "typ": "R",
+                            "cgst": 1487.5,
+                            "inum": "SSI/25-26/3346",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "16-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "SHREE SHAKTI INDUSTRIES",
+                    "supfildt": "08-11-2025",
+                    "supprd": "102025",
+                    "ctin": "07AAMCS8271L1ZM"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 19116,
+                            "sgst": 0,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 16200,
+                            "typ": "R",
+                            "cgst": 0,
+                            "inum": "736",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 2916,
+                            "dt": "28-11-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "GULSHAN REPAIRING WORKS",
+                    "supfildt": "10-12-2025",
+                    "supprd": "112025",
+                    "ctin": "09BSMPS1615L2Z6"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 3009,
+                            "sgst": 229.5,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 2550,
+                            "typ": "R",
+                            "cgst": 229.5,
+                            "inum": "2604",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "03-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 4036,
+                            "sgst": 307.8,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 3420,
+                            "typ": "R",
+                            "cgst": 307.8,
+                            "inum": "2607",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "03-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 7517,
+                            "sgst": 573.3,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 6370,
+                            "typ": "R",
+                            "cgst": 573.3,
+                            "inum": "2735",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "13-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 2974,
+                            "sgst": 226.8,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 2520,
+                            "typ": "R",
+                            "cgst": 226.8,
+                            "inum": "2806",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "19-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 2065,
+                            "sgst": 157.5,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 1750,
+                            "typ": "R",
+                            "cgst": 157.5,
+                            "inum": "2823",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "20-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 885,
+                            "sgst": 67.5,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 750,
+                            "typ": "R",
+                            "cgst": 67.5,
+                            "inum": "2824",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "20-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 30090,
+                            "sgst": 2295,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 25500,
+                            "typ": "R",
+                            "cgst": 2295,
+                            "inum": "2830",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "22-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 45961,
+                            "sgst": 3505.5,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 38950,
+                            "typ": "R",
+                            "cgst": 3505.5,
+                            "inum": "2864",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "23-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 2065,
+                            "sgst": 157.5,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 1750,
+                            "typ": "R",
+                            "cgst": 157.5,
+                            "inum": "2882",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "24-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 17110,
+                            "sgst": 1305,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 14500,
+                            "typ": "R",
+                            "cgst": 1305,
+                            "inum": "2894",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "25-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 1345,
+                            "sgst": 102.6,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 1140,
+                            "typ": "R",
+                            "cgst": 102.6,
+                            "inum": "2921",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "27-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "SANTOSH TRADING COMPANY",
+                    "supfildt": "10-01-2026",
+                    "supprd": "122025",
+                    "ctin": "07AFVPA1770P1ZW"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 6946,
+                            "sgst": 529.77,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 5886.34,
+                            "typ": "R",
+                            "cgst": 529.77,
+                            "inum": "14556",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "19-11-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "ROYAL TRADING CO.",
+                    "supfildt": "10-12-2025",
+                    "supprd": "112025",
+                    "ctin": "07DFJPS4857A1Z8"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 4484,
+                            "sgst": 342,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 3800,
+                            "typ": "R",
+                            "cgst": 342,
+                            "inum": "QHS/25-26/20359",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "04-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "QUALITY HARDWARE STORE",
+                    "supfildt": "13-01-2026",
+                    "supprd": "122025",
+                    "ctin": "07AAHPA5687N1Z8"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 13310,
+                            "sgst": 1015.2,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 11280,
+                            "typ": "R",
+                            "cgst": 1015.2,
+                            "inum": "CB-5679",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "30-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "VINOD SALES CORPORATION",
+                    "supfildt": "11-11-2025",
+                    "supprd": "102025",
+                    "ctin": "07AESPG7558M1ZN"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 12036,
+                            "sgst": 918,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 10200,
+                            "typ": "R",
+                            "cgst": 918,
+                            "inum": "194",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "03-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "Shri Adinath Traders",
+                    "supfildt": "12-11-2025",
+                    "supprd": "102025",
+                    "ctin": "07ACAPJ3659G1ZP"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 28320,
+                            "sgst": 2160,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "irn": "d44d38947385093a90f6410d5fc89ec4689a82b520c628c4a28de9815b0310b4",
+                            "txval": 24000,
+                            "typ": "R",
+                            "cgst": 2160,
+                            "irngendate": "25-10-2025",
+                            "inum": "VW0977/2025-26",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "25-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07",
+                            "srctyp": "E-Invoice"
+                        }
+                    ],
+                    "trdnm": "VIKAS WELDING & CO.",
+                    "supfildt": "11-11-2025",
+                    "supprd": "102025",
+                    "ctin": "07ALZPM7027R1ZX"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 12744,
+                            "sgst": 972,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 10800,
+                            "typ": "R",
+                            "cgst": 972,
+                            "inum": "BECO/25-26/6258",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "19-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 23765,
+                            "sgst": 1812.6,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 20140,
+                            "typ": "R",
+                            "cgst": 1812.6,
+                            "inum": "BECO/25-26/6353",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "23-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 13570,
+                            "sgst": 1035,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 11500,
+                            "typ": "R",
+                            "cgst": 1035,
+                            "inum": "BECO/25-26/6380",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "24-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "BRITISH ENGINEERING COMPANY",
+                    "supfildt": "10-01-2026",
+                    "supprd": "122025",
+                    "ctin": "07AFNPM5355A1ZI"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 8638,
+                            "sgst": 658.8,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 7320,
+                            "typ": "R",
+                            "cgst": 658.8,
+                            "inum": "3190",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "10-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "MAHTABSONS TRADING CORPORATION",
+                    "supfildt": "10-01-2026",
+                    "supprd": "122025",
+                    "ctin": "07AADPA2191B1ZG"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 54611,
+                            "sgst": 1300.25,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 52010,
+                            "typ": "R",
+                            "cgst": 1300.25,
+                            "inum": "25-26TID-5466",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "05-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "SAFETY SOLUTIONS",
+                    "supfildt": "08-01-2026",
+                    "supprd": "122025",
+                    "ctin": "07AAIPM1504D1Z8"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 1410,
+                            "sgst": 107.57,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 1195.2,
+                            "typ": "R",
+                            "cgst": 107.57,
+                            "inum": "BR/25-26/17239",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "13-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "B R HARDWARE STORE",
+                    "supfildt": "10-01-2026",
+                    "supprd": "122025",
+                    "ctin": "07AFGPG3013E1Z4"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 5900,
+                            "sgst": 450,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 5000,
+                            "typ": "R",
+                            "cgst": 450,
+                            "inum": "2025-26/2579",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "11-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 6608,
+                            "sgst": 504,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 5600,
+                            "typ": "R",
+                            "cgst": 504,
+                            "inum": "2025-26/2673",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "19-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "SHREE RAM INDUSTRIAL CORPORATION",
+                    "supfildt": "05-01-2026",
+                    "supprd": "122025",
+                    "ctin": "07AEUPA7215D1ZO"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 91647,
+                            "sgst": 5348.5,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 80950,
+                            "typ": "R",
+                            "cgst": 5348.5,
+                            "inum": "SSI/25-26/3563",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "04-11-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 2183,
+                            "sgst": 166.5,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 1850,
+                            "typ": "R",
+                            "cgst": 166.5,
+                            "inum": "SSI/25-26/3567",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "04-11-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "SHREE SHAKTI INDUSTRIES",
+                    "supfildt": "06-12-2025",
+                    "supprd": "112025",
+                    "ctin": "07AAMCS8271L1ZM"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 7462,
+                            "sgst": 569.16,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 6324,
+                            "typ": "R",
+                            "cgst": 569.16,
+                            "inum": "DTS/25-26/923",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "15-11-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "DELHI TOOLS AND SAFETY",
+                    "supfildt": "04-12-2025",
+                    "supprd": "112025",
+                    "ctin": "07AAWFD8777F1ZN"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 3682,
+                            "sgst": 280.8,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 3120,
+                            "typ": "R",
+                            "cgst": 280.8,
+                            "inum": "RSC/25-26/4657",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "28-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "ROHIT SALES CORPORATION",
+                    "supfildt": "07-11-2025",
+                    "supprd": "102025",
+                    "ctin": "07AAJPA8741P1Z9"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 5074,
+                            "sgst": 387,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 4300,
+                            "typ": "R",
+                            "cgst": 387,
+                            "inum": "10422",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "01-11-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 4142,
+                            "sgst": 315.9,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 3510,
+                            "typ": "R",
+                            "cgst": 315.9,
+                            "inum": "10440",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "01-11-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 7623,
+                            "sgst": 581.4,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 6460,
+                            "typ": "R",
+                            "cgst": 581.4,
+                            "inum": "11222",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "17-11-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 4425,
+                            "sgst": 337.5,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 3750,
+                            "typ": "R",
+                            "cgst": 337.5,
+                            "inum": "11707",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "26-11-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 4484,
+                            "sgst": 342,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 3800,
+                            "typ": "R",
+                            "cgst": 342,
+                            "inum": "11761",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "27-11-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "RR WELDING CORPORATION",
+                    "supfildt": "05-12-2025",
+                    "supprd": "112025",
+                    "ctin": "07AFUPS5090M1ZG"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 12980,
+                            "sgst": 990,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 11000,
+                            "typ": "R",
+                            "cgst": 990,
+                            "inum": "BECO/25-26/5186",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "08-11-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 13157,
+                            "sgst": 1003.5,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 11150,
+                            "typ": "R",
+                            "cgst": 1003.5,
+                            "inum": "BECO/25-26/5596",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "25-11-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 11505,
+                            "sgst": 877.5,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 9750,
+                            "typ": "R",
+                            "cgst": 877.5,
+                            "inum": "BECO/25-26/5605",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "25-11-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "BRITISH ENGINEERING COMPANY",
+                    "supfildt": "11-12-2025",
+                    "supprd": "112025",
+                    "ctin": "07AFNPM5355A1ZI"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 8968,
+                            "sgst": 684,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 7600,
+                            "typ": "R",
+                            "cgst": 684,
+                            "inum": "QHS/25-26/20269",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "19-11-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 8968,
+                            "sgst": 684,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 7600,
+                            "typ": "R",
+                            "cgst": 684,
+                            "inum": "QHS/25-26/20316",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "27-11-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "QUALITY HARDWARE STORE",
+                    "supfildt": "13-12-2025",
+                    "supprd": "112025",
+                    "ctin": "07AAHPA5687N1Z8"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 31500,
+                            "sgst": 750,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 30000,
+                            "typ": "R",
+                            "cgst": 750,
+                            "inum": "2237",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "10-11-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "MAYANK TRADERS",
+                    "supfildt": "07-12-2025",
+                    "supprd": "112025",
+                    "ctin": "07AEGPG0574D1ZW"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 2152,
+                            "sgst": 164.16,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 1824,
+                            "typ": "R",
+                            "cgst": 164.16,
+                            "inum": "2025-26/2392",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "24-11-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 3021,
+                            "sgst": 230.4,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 2560,
+                            "typ": "R",
+                            "cgst": 230.4,
+                            "inum": "2025-26/2396",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "25-11-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "SHREE RAM INDUSTRIAL CORPORATION",
+                    "supfildt": "04-12-2025",
+                    "supprd": "112025",
+                    "ctin": "07AEUPA7215D1ZO"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 29500,
+                            "sgst": 2250,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 25000,
+                            "typ": "R",
+                            "cgst": 2250,
+                            "inum": "077/2025-26",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "14-10-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "TUTEJA WELD MANUFACTURING CO",
+                    "supfildt": "11-11-2025",
+                    "supprd": "102025",
+                    "ctin": "07AEFPT0632N1Z8"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 25412,
+                            "sgst": 1453.45,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 22505,
+                            "typ": "R",
+                            "cgst": 1453.45,
+                            "inum": "2387",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "04-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "SAFE SAFETY FIBER GLASS CO",
+                    "supfildt": "10-01-2026",
+                    "supprd": "122025",
+                    "ctin": "07AEWPC4731Q1ZU"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 1000,
+                            "sgst": 0,
+                            "rev": "Y",
+                            "itcavl": "Y",
+                            "txval": 1000,
+                            "typ": "R",
+                            "cgst": 0,
+                            "inum": "379786",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 50,
+                            "dt": "15-11-2025",
+                            "imsStatus": "N",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "Shree Sharma Road lines",
+                    "supfildt": "11-12-2025",
+                    "supprd": "112025",
+                    "ctin": "23AHIPS2379F1Z7"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 6608,
+                            "sgst": 504,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 5600,
+                            "typ": "R",
+                            "cgst": 504,
+                            "inum": "2025-26/3667",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "04-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "Prenav India Private Limited",
+                    "supfildt": "10-01-2026",
+                    "supprd": "122025",
+                    "ctin": "07AAKCP7380F1Z4"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 14160,
+                            "sgst": 1080,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 12000,
+                            "typ": "R",
+                            "cgst": 1080,
+                            "inum": "11971",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "02-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 2891,
+                            "sgst": 220.5,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 2450,
+                            "typ": "R",
+                            "cgst": 220.5,
+                            "inum": "12002",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "02-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        },
+                        {
+                            "val": 41772,
+                            "sgst": 3186,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 35400,
+                            "typ": "R",
+                            "cgst": 3186,
+                            "inum": "12904",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "20-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "RR WELDING CORPORATION",
+                    "supfildt": "06-01-2026",
+                    "supprd": "122025",
+                    "ctin": "07AFUPS5090M1ZG"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 4400,
+                            "sgst": 110,
+                            "rev": "Y",
+                            "itcavl": "Y",
+                            "txval": 4400,
+                            "typ": "R",
+                            "cgst": 110,
+                            "inum": "DM6001488311",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "10-11-2025",
+                            "imsStatus": "N",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "ASSOCIATED ROAD CARRIERS LIMITED",
+                    "supfildt": "18-12-2025",
+                    "supprd": "112025",
+                    "ctin": "07AACCA4861C2Z0"
+                }
+            ]
+        },
+        "gendt": "17-01-2026",
+        "gstin": "07AKBPA2573M1Z8",
+        "version": "1.0",
+        "cpsumm": {
+            "b2b": [
+                {
+                    "sgst": 0,
+                    "ttldocs": 1,
+                    "trdnm": "DIAMOND RUBBERS",
+                    "supprd": "122025",
+                    "supfildt": "09-01-2026",
+                    "txval": 33750,
+                    "ctin": "03AAAFD5827E1ZY",
+                    "cgst": 0,
+                    "cess": 0,
+                    "igst": 6075
+                },
+                {
+                    "sgst": 1368,
+                    "ttldocs": 2,
+                    "trdnm": "QUALITY HARDWARE STORE",
+                    "supprd": "112025",
+                    "supfildt": "13-12-2025",
+                    "txval": 15200,
+                    "ctin": "07AAHPA5687N1Z8",
+                    "cgst": 1368,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 1003.5,
+                    "ttldocs": 2,
+                    "trdnm": "BRITISH ENGINEERING COMPANY",
+                    "supprd": "102025",
+                    "supfildt": "10-11-2025",
+                    "txval": 11150,
+                    "ctin": "07AFNPM5355A1ZI",
+                    "cgst": 1003.5,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 5515,
+                    "ttldocs": 2,
+                    "trdnm": "SHREE SHAKTI INDUSTRIES",
+                    "supprd": "112025",
+                    "supfildt": "06-12-2025",
+                    "txval": 82800,
+                    "ctin": "07AAMCS8271L1ZM",
+                    "cgst": 5515,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 220,
+                    "ttldocs": 1,
+                    "trdnm": "CHAMPION TRADING CO.",
+                    "supprd": "102025",
+                    "supfildt": "07-11-2025",
+                    "txval": 8800,
+                    "ctin": "07AAJFC3288R1ZO",
+                    "cgst": 220,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 315,
+                    "ttldocs": 1,
+                    "trdnm": "SIDDHI VINAYAK WELDING & SAFETY",
+                    "supprd": "102025",
+                    "supfildt": "10-11-2025",
+                    "txval": 12600,
+                    "ctin": "07AVHPB1996L1Z8",
+                    "cgst": 315,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 918,
+                    "ttldocs": 1,
+                    "trdnm": "Shri Adinath Traders",
+                    "supprd": "102025",
+                    "supfildt": "12-11-2025",
+                    "txval": 10200,
+                    "ctin": "07ACAPJ3659G1ZP",
+                    "cgst": 918,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 132,
+                    "ttldocs": 1,
+                    "trdnm": "V Jain Safety",
+                    "supprd": "102025",
+                    "supfildt": "12-11-2025",
+                    "txval": 5280,
+                    "ctin": "07CJZPJ7953D1ZK",
+                    "cgst": 132,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 725,
+                    "ttldocs": 1,
+                    "trdnm": "DUPLON KNITWEARS",
+                    "supprd": "102025",
+                    "supfildt": "06-11-2025",
+                    "txval": 29000,
+                    "ctin": "07BIQPJ4847K1ZM",
+                    "cgst": 725,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 91.53,
+                    "ttldocs": 1,
+                    "trdnm": "JANAK INFOTECH",
+                    "supprd": "102025",
+                    "supfildt": "11-11-2025",
+                    "txval": 1016.95,
+                    "ctin": "07AGVPG3626M1ZV",
+                    "cgst": 91.53,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 831.33,
+                    "ttldocs": 1,
+                    "trdnm": "ALLIANCE TOOLS",
+                    "supprd": "122025",
+                    "supfildt": "08-01-2026",
+                    "txval": 9237,
+                    "ctin": "07ANUPC4675J1ZG",
+                    "cgst": 831.33,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 270,
+                    "ttldocs": 1,
+                    "trdnm": "G A Tools & Abrasives",
+                    "supprd": "112025",
+                    "supfildt": "11-12-2025",
+                    "txval": 3000,
+                    "ctin": "07AAHPG4733B2Z5",
+                    "cgst": 270,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 8878.5,
+                    "ttldocs": 3,
+                    "trdnm": "K.R.ENTERPRISES",
+                    "supprd": "092025",
+                    "supfildt": "13-10-2025",
+                    "txval": 98650,
+                    "ctin": "07GDAPK3600M1ZM",
+                    "cgst": 8878.5,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 0,
+                    "ttldocs": 1,
+                    "trdnm": "EXTRA POWER ENTERPRISES",
+                    "supprd": "102025",
+                    "supfildt": "11-11-2025",
+                    "txval": 31200,
+                    "ctin": "09ADVPF8775H1ZP",
+                    "cgst": 0,
+                    "cess": 0,
+                    "igst": 5616
+                },
+                {
+                    "sgst": 48,
+                    "ttldocs": 1,
+                    "trdnm": "HOTEL LALITH MAHAL",
+                    "supprd": "092025",
+                    "supfildt": "16-10-2025",
+                    "txval": 800,
+                    "ctin": "29AAAFH9110J1ZD",
+                    "cgst": 48,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 315,
+                    "ttldocs": 1,
+                    "trdnm": "SIDDHI VINAYAK WELDING & SAFETY",
+                    "supprd": "122025",
+                    "supfildt": "10-01-2026",
+                    "txval": 3500,
+                    "ctin": "07AVHPB1996L1Z8",
+                    "cgst": 315,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 110,
+                    "ttldocs": 1,
+                    "trdnm": "CHAMPION TRADING CO.",
+                    "supprd": "122025",
+                    "supfildt": "06-01-2026",
+                    "txval": 4400,
+                    "ctin": "07AAJFC3288R1ZO",
+                    "cgst": 110,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 394.56,
+                    "ttldocs": 2,
+                    "trdnm": "SHREE RAM INDUSTRIAL CORPORATION",
+                    "supprd": "112025",
+                    "supfildt": "04-12-2025",
+                    "txval": 4384,
+                    "ctin": "07AEUPA7215D1ZO",
+                    "cgst": 394.56,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 3256.79,
+                    "ttldocs": 1,
+                    "trdnm": "SANSKAR TRADING COMPANY",
+                    "supprd": "112025",
+                    "supfildt": "08-12-2025",
+                    "txval": 36186.5,
+                    "ctin": "07AAKPG2968F1ZM",
+                    "cgst": 3256.79,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 12206.25,
+                    "ttldocs": 12,
+                    "trdnm": "SANTOSH TRADING COMPANY",
+                    "supprd": "112025",
+                    "supfildt": "09-12-2025",
+                    "txval": 135625,
+                    "ctin": "07AFVPA1770P1ZW",
+                    "cgst": 12206.25,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 828,
+                    "ttldocs": 1,
+                    "trdnm": "BEST POWER TOOLS",
+                    "supprd": "122025",
+                    "supfildt": "13-01-2026",
+                    "txval": 9200,
+                    "ctin": "07AQXPA7752N1Z1",
+                    "cgst": 828,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 658.8,
+                    "ttldocs": 1,
+                    "trdnm": "MAHTABSONS TRADING CORPORATION",
+                    "supprd": "122025",
+                    "supfildt": "10-01-2026",
+                    "txval": 7320,
+                    "ctin": "07AADPA2191B1ZG",
+                    "cgst": 658.8,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 1181.25,
+                    "ttldocs": 2,
+                    "trdnm": "ANUSHKA SAFETY WORK'S",
+                    "supprd": "122025",
+                    "supfildt": "11-01-2026",
+                    "txval": 47250,
+                    "ctin": "07GRFPK2574B1ZW",
+                    "cgst": 1181.25,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 5580,
+                    "ttldocs": 1,
+                    "trdnm": "DIVINE CABLE PRODUCTS",
+                    "supprd": "102025",
+                    "supfildt": "05-11-2025",
+                    "txval": 62000,
+                    "ctin": "07AAKHD4746E1ZC",
+                    "cgst": 5580,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 360,
+                    "ttldocs": 1,
+                    "trdnm": "JIYA ENGINEERING COMPANY",
+                    "supprd": "122025",
+                    "supfildt": "09-01-2026",
+                    "txval": 4000,
+                    "ctin": "07AAPFJ8562M1ZI",
+                    "cgst": 360,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 280.8,
+                    "ttldocs": 1,
+                    "trdnm": "ROHIT SALES CORPORATION",
+                    "supprd": "102025",
+                    "supfildt": "07-11-2025",
+                    "txval": 3120,
+                    "ctin": "07AAJPA8741P1Z9",
+                    "cgst": 280.8,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 0,
+                    "ttldocs": 1,
+                    "trdnm": "R.G WELD ENGINEERING WORKS",
+                    "supprd": "102025",
+                    "supfildt": "06-11-2025",
+                    "txval": 89500,
+                    "ctin": "09BPCPD9914A1Z7",
+                    "cgst": 0,
+                    "cess": 0,
+                    "igst": 16110
+                },
+                {
+                    "sgst": 1963.8,
+                    "ttldocs": 5,
+                    "trdnm": "RR WELDING CORPORATION",
+                    "supprd": "112025",
+                    "supfildt": "05-12-2025",
+                    "txval": 21820,
+                    "ctin": "07AFUPS5090M1ZG",
+                    "cgst": 1963.8,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 4302,
+                    "ttldocs": 2,
+                    "trdnm": "GUPTA INDUSTRIAL CORPORATION",
+                    "supprd": "122025",
+                    "supfildt": "06-01-2026",
+                    "txval": 47800,
+                    "ctin": "07AAUFG2184K1ZU",
+                    "cgst": 4302,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 0,
+                    "ttldocs": 1,
+                    "trdnm": "M/S SHRI BALAJI INDUSTRIES",
+                    "supprd": "112025",
+                    "supfildt": "09-12-2025",
+                    "txval": 14885,
+                    "ctin": "05AFPFS3969G1ZF",
+                    "cgst": 0,
+                    "cess": 0,
+                    "igst": 2679.3
+                },
+                {
+                    "sgst": 0,
+                    "ttldocs": 1,
+                    "trdnm": "SRI SAI SRISHTI BATTERY AND ELECTRONICS",
+                    "supprd": "102025",
+                    "supfildt": "18-11-2025",
+                    "txval": 15904.76,
+                    "ctin": "09AQIPD9949F2ZE",
+                    "cgst": 0,
+                    "cess": 0,
+                    "igst": 795.24
+                },
+                {
+                    "sgst": 561.6,
+                    "ttldocs": 1,
+                    "trdnm": "ROHIT SALES CORPORATION",
+                    "supprd": "122025",
+                    "supfildt": "05-01-2026",
+                    "txval": 6240,
+                    "ctin": "07AAJPA8741P1Z9",
+                    "cgst": 561.6,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 1404,
+                    "ttldocs": 1,
+                    "trdnm": "SHREE SHYAM PETROLEUM CORPORATION",
+                    "supprd": "122025",
+                    "supfildt": "09-01-2026",
+                    "txval": 15600,
+                    "ctin": "07DEXPG8583N1ZA",
+                    "cgst": 1404,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 1368,
+                    "ttldocs": 2,
+                    "trdnm": "AMBAY INDUSTRIAL CORPORATION",
+                    "supprd": "122025",
+                    "supfildt": "07-01-2026",
+                    "txval": 15200,
+                    "ctin": "07AJZPB6554G1ZT",
+                    "cgst": 1368,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 2151,
+                    "ttldocs": 3,
+                    "trdnm": "SRYARHAM SAFETY SOLUTION PRIVATE LIMITED",
+                    "supprd": "112025",
+                    "supfildt": "11-12-2025",
+                    "txval": 86040,
+                    "ctin": "07AAUCS0417L1ZY",
+                    "cgst": 2151,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 0,
+                    "ttldocs": 2,
+                    "trdnm": "INDIAMART INTERMESH LTD.",
+                    "supprd": "122025",
+                    "supfildt": "07-01-2026",
+                    "txval": 5000,
+                    "ctin": "09AAACI5853L2Z5",
+                    "cgst": 0,
+                    "cess": 0,
+                    "igst": 900
+                },
+                {
+                    "sgst": 990,
+                    "ttldocs": 1,
+                    "trdnm": "SHANTI UDYOG WELDSAFE PVT. LTD.",
+                    "supprd": "112025",
+                    "supfildt": "09-12-2025",
+                    "txval": 11000,
+                    "ctin": "07AAJCA6438N1Z6",
+                    "cgst": 990,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 7771.5,
+                    "ttldocs": 2,
+                    "trdnm": "BANSAL TOOLS",
+                    "supprd": "122025",
+                    "supfildt": "11-01-2026",
+                    "txval": 86350,
+                    "ctin": "07BQGPB3565E1Z4",
+                    "cgst": 7771.5,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 0,
+                    "ttldocs": 1,
+                    "trdnm": "M/S RAINBOW WELDING CORP",
+                    "supprd": "122025",
+                    "supfildt": "11-01-2026",
+                    "txval": 24180,
+                    "ctin": "09ANGPM3340Q1ZI",
+                    "cgst": 0,
+                    "cess": 0,
+                    "igst": 4352.4
+                },
+                {
+                    "sgst": 1453.45,
+                    "ttldocs": 1,
+                    "trdnm": "SAFE SAFETY FIBER GLASS CO",
+                    "supprd": "122025",
+                    "supfildt": "10-01-2026",
+                    "txval": 22505,
+                    "ctin": "07AEWPC4731Q1ZU",
+                    "cgst": 1453.45,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 569.16,
+                    "ttldocs": 1,
+                    "trdnm": "DELHI TOOLS AND SAFETY",
+                    "supprd": "112025",
+                    "supfildt": "04-12-2025",
+                    "txval": 6324,
+                    "ctin": "07AAWFD8777F1ZN",
+                    "cgst": 569.16,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 2250,
+                    "ttldocs": 1,
+                    "trdnm": "TUTEJA WELD MANUFACTURING CO",
+                    "supprd": "122025",
+                    "supfildt": "10-01-2026",
+                    "txval": 25000,
+                    "ctin": "07AEFPT0632N1Z8",
+                    "cgst": 2250,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 2871,
+                    "ttldocs": 3,
+                    "trdnm": "BRITISH ENGINEERING COMPANY",
+                    "supprd": "112025",
+                    "supfildt": "11-12-2025",
+                    "txval": 31900,
+                    "ctin": "07AFNPM5355A1ZI",
+                    "cgst": 2871,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 1003.5,
+                    "ttldocs": 3,
+                    "trdnm": "GULSHAN ENTERPRISES",
+                    "supprd": "122025",
+                    "supfildt": "11-01-2026",
+                    "txval": 11150,
+                    "ctin": "07AFNPW0864Q1ZF",
+                    "cgst": 1003.5,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 633,
+                    "ttldocs": 3,
+                    "trdnm": "G.S. ENGINEERING CO.",
+                    "supprd": "122025",
+                    "supfildt": "08-01-2026",
+                    "txval": 25320,
+                    "ctin": "07BQQPS0315B1Z1",
+                    "cgst": 633,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 2250,
+                    "ttldocs": 1,
+                    "trdnm": "TUTEJA WELD MANUFACTURING CO",
+                    "supprd": "102025",
+                    "supfildt": "11-11-2025",
+                    "txval": 25000,
+                    "ctin": "07AEFPT0632N1Z8",
+                    "cgst": 2250,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 750,
+                    "ttldocs": 1,
+                    "trdnm": "MAYANK TRADERS",
+                    "supprd": "112025",
+                    "supfildt": "07-12-2025",
+                    "txval": 30000,
+                    "ctin": "07AEGPG0574D1ZW",
+                    "cgst": 750,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 0,
+                    "ttldocs": 2,
+                    "trdnm": "INDIAMART INTERMESH LTD.",
+                    "supprd": "102025",
+                    "supfildt": "08-11-2025",
+                    "txval": 5000,
+                    "ctin": "09AAACI5853L2Z5",
+                    "cgst": 0,
+                    "cess": 0,
+                    "igst": 900
+                },
+                {
+                    "sgst": 8928,
+                    "ttldocs": 11,
+                    "trdnm": "SANTOSH TRADING COMPANY",
+                    "supprd": "122025",
+                    "supfildt": "10-01-2026",
+                    "txval": 99200,
+                    "ctin": "07AFVPA1770P1ZW",
+                    "cgst": 8928,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 767.67,
+                    "ttldocs": 2,
+                    "trdnm": "KEMP AND CO LTD",
+                    "supprd": "122025",
+                    "supfildt": "09-01-2026",
+                    "txval": 8529.66,
+                    "ctin": "07AAACK2249L1ZG",
+                    "cgst": 767.67,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 132,
+                    "ttldocs": 1,
+                    "trdnm": "V Jain Safety",
+                    "supprd": "112025",
+                    "supfildt": "03-12-2025",
+                    "txval": 5280,
+                    "ctin": "07CJZPJ7953D1ZK",
+                    "cgst": 132,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 7437.5,
+                    "ttldocs": 2,
+                    "trdnm": "SHREE SHAKTI INDUSTRIES",
+                    "supprd": "102025",
+                    "supfildt": "08-11-2025",
+                    "txval": 297500,
+                    "ctin": "07AAMCS8271L1ZM",
+                    "cgst": 7437.5,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 1278,
+                    "ttldocs": 2,
+                    "trdnm": "BEST POWER TOOLS",
+                    "supprd": "112025",
+                    "supfildt": "13-12-2025",
+                    "txval": 14200,
+                    "ctin": "07AQXPA7752N1Z1",
+                    "cgst": 1278,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 107.57,
+                    "ttldocs": 1,
+                    "trdnm": "B R HARDWARE STORE",
+                    "supprd": "122025",
+                    "supfildt": "10-01-2026",
+                    "txval": 1195.2,
+                    "ctin": "07AFGPG3013E1Z4",
+                    "cgst": 107.57,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 1015.2,
+                    "ttldocs": 1,
+                    "trdnm": "VINOD SALES CORPORATION",
+                    "supprd": "102025",
+                    "supfildt": "11-11-2025",
+                    "txval": 11280,
+                    "ctin": "07AESPG7558M1ZN",
+                    "cgst": 1015.2,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 153,
+                    "ttldocs": 1,
+                    "trdnm": "G A Tools & Abrasives",
+                    "supprd": "122025",
+                    "supfildt": "11-01-2026",
+                    "txval": 1700,
+                    "ctin": "07AAHPG4733B2Z5",
+                    "cgst": 153,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 0,
+                    "ttldocs": 1,
+                    "trdnm": "GULSHAN REPAIRING WORKS",
+                    "supprd": "112025",
+                    "supfildt": "10-12-2025",
+                    "txval": 16200,
+                    "ctin": "09BSMPS1615L2Z6",
+                    "cgst": 0,
+                    "cess": 0,
+                    "igst": 2916
+                },
+                {
+                    "sgst": 2160,
+                    "ttldocs": 1,
+                    "trdnm": "VIKAS WELDING & CO.",
+                    "supprd": "102025",
+                    "supfildt": "11-11-2025",
+                    "txval": 24000,
+                    "ctin": "07ALZPM7027R1ZX",
+                    "cgst": 2160,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 342,
+                    "ttldocs": 1,
+                    "trdnm": "QUALITY HARDWARE STORE",
+                    "supprd": "122025",
+                    "supfildt": "13-01-2026",
+                    "txval": 3800,
+                    "ctin": "07AAHPA5687N1Z8",
+                    "cgst": 342,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 517.5,
+                    "ttldocs": 1,
+                    "trdnm": "CHECKMATE INDIA",
+                    "supprd": "122025",
+                    "supfildt": "07-01-2026",
+                    "txval": 5750,
+                    "ctin": "07AAHFC2758G2ZF",
+                    "cgst": 517.5,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 1170,
+                    "ttldocs": 1,
+                    "trdnm": "HARE KRISHNA INDUSTRIES",
+                    "supprd": "122025",
+                    "supfildt": "08-01-2026",
+                    "txval": 13000,
+                    "ctin": "07AFXPT0746A1Z8",
+                    "cgst": 1170,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 2250,
+                    "ttldocs": 1,
+                    "trdnm": "ADAM ELECTRICALS & SERVICES",
+                    "supprd": "102025",
+                    "supfildt": "10-11-2025",
+                    "txval": 25000,
+                    "ctin": "07NIMPS7347H1ZB",
+                    "cgst": 2250,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 954,
+                    "ttldocs": 2,
+                    "trdnm": "SHREE RAM INDUSTRIAL CORPORATION",
+                    "supprd": "122025",
+                    "supfildt": "05-01-2026",
+                    "txval": 10600,
+                    "ctin": "07AEUPA7215D1ZO",
+                    "cgst": 954,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 10502.1,
+                    "ttldocs": 9,
+                    "trdnm": "SANTOSH TRADING COMPANY",
+                    "supprd": "102025",
+                    "supfildt": "11-11-2025",
+                    "txval": 116690,
+                    "ctin": "07AFVPA1770P1ZW",
+                    "cgst": 10502.1,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 7380,
+                    "ttldocs": 1,
+                    "trdnm": "SAWHNEY TRADING COMPANY",
+                    "supprd": "112025",
+                    "supfildt": "09-12-2025",
+                    "txval": 82000,
+                    "ctin": "07BMVPS7428C1ZI",
+                    "cgst": 7380,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 555,
+                    "ttldocs": 1,
+                    "trdnm": "SIDDHI VINAYAK WELDING & SAFETY",
+                    "supprd": "112025",
+                    "supfildt": "10-12-2025",
+                    "txval": 22200,
+                    "ctin": "07AVHPB1996L1Z8",
+                    "cgst": 555,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 684,
+                    "ttldocs": 1,
+                    "trdnm": "QUALITY HARDWARE STORE",
+                    "supprd": "102025",
+                    "supfildt": "11-11-2025",
+                    "txval": 7600,
+                    "ctin": "07AAHPA5687N1Z8",
+                    "cgst": 684,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 773.55,
+                    "ttldocs": 2,
+                    "trdnm": "SANSKAR TRADING COMPANY",
+                    "supprd": "102025",
+                    "supfildt": "10-11-2025",
+                    "txval": 8595,
+                    "ctin": "07AAKPG2968F1ZM",
+                    "cgst": 773.55,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 450,
+                    "ttldocs": 1,
+                    "trdnm": "ANUSHKA SAFETY WORK'S",
+                    "supprd": "112025",
+                    "supfildt": "11-12-2025",
+                    "txval": 18000,
+                    "ctin": "07GRFPK2574B1ZW",
+                    "cgst": 450,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 51.5,
+                    "ttldocs": 1,
+                    "trdnm": "SHARMA TRADING COMPANY",
+                    "supprd": "122025",
+                    "supfildt": "11-01-2026",
+                    "txval": 2060,
+                    "ctin": "07ADWFS9606D1ZK",
+                    "cgst": 51.5,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 686.25,
+                    "ttldocs": 2,
+                    "trdnm": "SRYARHAM SAFETY SOLUTION PRIVATE LIMITED",
+                    "supprd": "102025",
+                    "supfildt": "11-11-2025",
+                    "txval": 27450,
+                    "ctin": "07AAUCS0417L1ZY",
+                    "cgst": 686.25,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 2445.19,
+                    "ttldocs": 1,
+                    "trdnm": "FINE CURVES TRADERS",
+                    "supprd": "112025",
+                    "supfildt": "12-12-2025",
+                    "txval": 27168.75,
+                    "ctin": "07AOJPK6092F1ZR",
+                    "cgst": 2445.19,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 3204,
+                    "ttldocs": 1,
+                    "trdnm": "BANSAL TOOLS",
+                    "supprd": "112025",
+                    "supfildt": "11-12-2025",
+                    "txval": 35600,
+                    "ctin": "07BQGPB3565E1Z4",
+                    "cgst": 3204,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 0,
+                    "ttldocs": 1,
+                    "trdnm": "Shree Sharma Road lines",
+                    "supprd": "112025",
+                    "supfildt": "11-12-2025",
+                    "txval": 1000,
+                    "ctin": "23AHIPS2379F1Z7",
+                    "cgst": 0,
+                    "cess": 0,
+                    "igst": 50
+                },
+                {
+                    "sgst": 110,
+                    "ttldocs": 1,
+                    "trdnm": "ASSOCIATED ROAD CARRIERS LIMITED",
+                    "supprd": "112025",
+                    "supfildt": "18-12-2025",
+                    "txval": 4400,
+                    "ctin": "07AACCA4861C2Z0",
+                    "cgst": 110,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 4486.5,
+                    "ttldocs": 3,
+                    "trdnm": "RR WELDING CORPORATION",
+                    "supprd": "122025",
+                    "supfildt": "06-01-2026",
+                    "txval": 49850,
+                    "ctin": "07AFUPS5090M1ZG",
+                    "cgst": 4486.5,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 441,
+                    "ttldocs": 1,
+                    "trdnm": "DURGA RUBBER INDUSTRIES",
+                    "supprd": "122025",
+                    "supfildt": "10-01-2026",
+                    "txval": 4900,
+                    "ctin": "07APPPG8618G1ZL",
+                    "cgst": 441,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 1089,
+                    "ttldocs": 1,
+                    "trdnm": "GULSHAN ENTERPRISES",
+                    "supprd": "112025",
+                    "supfildt": "09-12-2025",
+                    "txval": 12100,
+                    "ctin": "07AFNPW0864Q1ZF",
+                    "cgst": 1089,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 3831.3,
+                    "ttldocs": 1,
+                    "trdnm": "SANJAY WELDING  PRODUCATS",
+                    "supprd": "102025",
+                    "supfildt": "10-11-2025",
+                    "txval": 42570,
+                    "ctin": "07AAIPM3922F1ZU",
+                    "cgst": 3831.3,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 1300.25,
+                    "ttldocs": 1,
+                    "trdnm": "SAFETY SOLUTIONS",
+                    "supprd": "122025",
+                    "supfildt": "08-01-2026",
+                    "txval": 52010,
+                    "ctin": "07AAIPM1504D1Z8",
+                    "cgst": 1300.25,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 0,
+                    "ttldocs": 1,
+                    "trdnm": "M R SALES CORPORATION",
+                    "supprd": "082025",
+                    "supfildt": "15-10-2025",
+                    "txval": 7000,
+                    "ctin": "23AYDPA0984A1Z6",
+                    "cgst": 0,
+                    "cess": 0,
+                    "igst": 1260
+                },
+                {
+                    "sgst": 529.77,
+                    "ttldocs": 1,
+                    "trdnm": "ROYAL TRADING CO.",
+                    "supprd": "112025",
+                    "supfildt": "10-12-2025",
+                    "txval": 5886.34,
+                    "ctin": "07DFJPS4857A1Z8",
+                    "cgst": 529.77,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 112.5,
+                    "ttldocs": 1,
+                    "trdnm": "Duplon Safewear",
+                    "supprd": "102025",
+                    "supfildt": "06-11-2025",
+                    "txval": 4500,
+                    "ctin": "07BSDPJ8901R1Z6",
+                    "cgst": 112.5,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 1393.2,
+                    "ttldocs": 2,
+                    "trdnm": "Prenav India Private Limited",
+                    "supprd": "102025",
+                    "supfildt": "10-11-2025",
+                    "txval": 15480,
+                    "ctin": "07AAKCP7380F1Z4",
+                    "cgst": 1393.2,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 3819.6,
+                    "ttldocs": 3,
+                    "trdnm": "BRITISH ENGINEERING COMPANY",
+                    "supprd": "122025",
+                    "supfildt": "10-01-2026",
+                    "txval": 42440,
+                    "ctin": "07AFNPM5355A1ZI",
+                    "cgst": 3819.6,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 831.42,
+                    "ttldocs": 1,
+                    "trdnm": "ALLIANCE TOOLS",
+                    "supprd": "112025",
+                    "supfildt": "08-12-2025",
+                    "txval": 9238,
+                    "ctin": "07ANUPC4675J1ZG",
+                    "cgst": 831.42,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 1516.5,
+                    "ttldocs": 5,
+                    "trdnm": "SRYARHAM SAFETY SOLUTION PRIVATE LIMITED",
+                    "supprd": "122025",
+                    "supfildt": "05-01-2026",
+                    "txval": 60660,
+                    "ctin": "07AAUCS0417L1ZY",
+                    "cgst": 1516.5,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 1084.5,
+                    "ttldocs": 2,
+                    "trdnm": "RR WELDING CORPORATION",
+                    "supprd": "102025",
+                    "supfildt": "08-11-2025",
+                    "txval": 12050,
+                    "ctin": "07AFUPS5090M1ZG",
+                    "cgst": 1084.5,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 250,
+                    "ttldocs": 1,
+                    "trdnm": "MAYANK TRADERS",
+                    "supprd": "122025",
+                    "supfildt": "08-01-2026",
+                    "txval": 10000,
+                    "ctin": "07AEGPG0574D1ZW",
+                    "cgst": 250,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 1728,
+                    "ttldocs": 1,
+                    "trdnm": "VIKAS WELDING & CO.",
+                    "supprd": "122025",
+                    "supfildt": "06-01-2026",
+                    "txval": 19200,
+                    "ctin": "07ALZPM7027R1ZX",
+                    "cgst": 1728,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 760.5,
+                    "ttldocs": 1,
+                    "trdnm": "PR INDUSTRIES",
+                    "supprd": "122025",
+                    "supfildt": "10-01-2026",
+                    "txval": 8450,
+                    "ctin": "07ABBFP8975D1ZY",
+                    "cgst": 760.5,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 504,
+                    "ttldocs": 1,
+                    "trdnm": "Prenav India Private Limited",
+                    "supprd": "122025",
+                    "supfildt": "10-01-2026",
+                    "txval": 5600,
+                    "ctin": "07AAKCP7380F1Z4",
+                    "cgst": 504,
+                    "cess": 0,
+                    "igst": 0
+                }
+            ]
+        }
+    },
+    "chksum": "e4610f817b8e1572b361970f5e9d5d82fd2296be4223bc7d63ba6795659b733c"
+}
