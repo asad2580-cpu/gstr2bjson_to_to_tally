@@ -1,0 +1,386 @@
+{
+    "data": {
+        "itcsumm": {
+            "itcavl": {
+                "revsup": {
+                    "sgst": 3.35,
+                    "b2b": {
+                        "sgst": 3.35,
+                        "txval": 134,
+                        "cgst": 3.35,
+                        "cess": 0,
+                        "igst": 0
+                    },
+                    "txval": 134,
+                    "cgst": 3.35,
+                    "cess": 0,
+                    "igst": 0
+                },
+                "othersup": {
+                    "sgst": 0,
+                    "cgst": 0,
+                    "cdnr": {
+                        "sgst": 0,
+                        "txval": 2909.72,
+                        "cgst": 0,
+                        "cess": 0,
+                        "igst": 523.7
+                    },
+                    "cess": 0,
+                    "igst": 523.7
+                },
+                "nonrevsup": {
+                    "sgst": 4071.6,
+                    "b2b": {
+                        "sgst": 4071.6,
+                        "txval": 83087.76,
+                        "cgst": 4071.6,
+                        "cess": 0,
+                        "igst": 6812.49
+                    },
+                    "cgst": 4071.6,
+                    "cess": 0,
+                    "igst": 6812.49
+                }
+            }
+        },
+        "rtnprd": "122025",
+        "docdata": {
+            "b2b": [
+                {
+                    "inv": [
+                        {
+                            "val": 26019,
+                            "sgst": 0,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "irn": "8252ac319cd0a43b5cab88332ffdc4ce3ce989230ba31f3c837e817b2437249f",
+                            "txval": 22050,
+                            "typ": "R",
+                            "cgst": 0,
+                            "irngendate": "13-12-2025",
+                            "inum": "1816332343",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 3969,
+                            "dt": "13-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07",
+                            "srctyp": "E-Invoice"
+                        }
+                    ],
+                    "trdnm": "INDIAMART INTERMESH LTD.",
+                    "supfildt": "07-01-2026",
+                    "supprd": "122025",
+                    "ctin": "09AAACI5853L2Z5"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 134,
+                            "sgst": 3.35,
+                            "rev": "Y",
+                            "itcavl": "Y",
+                            "txval": 134,
+                            "typ": "R",
+                            "cgst": 3.35,
+                            "inum": "CRN1236996283",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "30-12-2025",
+                            "imsStatus": "N",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "Porter",
+                    "supfildt": "11-01-2026",
+                    "supprd": "122025",
+                    "ctin": "07AAGCR8772D1Z4"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 163.74,
+                            "sgst": 0,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 138.76,
+                            "typ": "R",
+                            "cgst": 0,
+                            "inum": "FKRKA26001327079",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 24.98,
+                            "dt": "31-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "FLIPKART INTERNET PRIVATE LIMITED",
+                    "supfildt": "09-01-2026",
+                    "supprd": "122025",
+                    "ctin": "29AACCF0683K1ZD"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 6183.2,
+                            "sgst": 471.6,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 5240,
+                            "typ": "R",
+                            "cgst": 471.6,
+                            "inum": "688",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "24-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "SHREE SHYAM ELECTRONICS",
+                    "supfildt": "13-01-2026",
+                    "supprd": "122025",
+                    "ctin": "07ABJPG8300M1ZK"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 736.99,
+                            "sgst": 0,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "irn": "f2715ec319fff7508bd6cc86802490be74d2bcdcc193e4f45057f1d599553972",
+                            "txval": 624.57,
+                            "typ": "R",
+                            "cgst": 0,
+                            "irngendate": "05-01-2026",
+                            "inum": "TI/12/25/1425253",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 112.42,
+                            "dt": "31-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07",
+                            "srctyp": "E-Invoice"
+                        }
+                    ],
+                    "trdnm": "Meesho Technologies Private Limited",
+                    "supfildt": "10-01-2026",
+                    "supprd": "122025",
+                    "ctin": "29AARCM9332R1Z9"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 47200,
+                            "sgst": 3600,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "txval": 40000,
+                            "typ": "R",
+                            "cgst": 3600,
+                            "inum": "514",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 0,
+                            "dt": "08-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07"
+                        }
+                    ],
+                    "trdnm": "BILAL HANDI CRAFT",
+                    "supfildt": "10-01-2026",
+                    "supprd": "122025",
+                    "ctin": "07CDDPB9704Q1Z7"
+                },
+                {
+                    "inv": [
+                        {
+                            "val": 16277.32,
+                            "sgst": 0,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "irn": "4f80837a817761d856de2a642e5405850d1477b49be4349376adc6be29a28ab5",
+                            "txval": 13794.43,
+                            "typ": "R",
+                            "cgst": 0,
+                            "irngendate": "01-01-2026",
+                            "inum": "KA-2526-2665579",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 2482.89,
+                            "dt": "31-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07",
+                            "srctyp": "E-Invoice"
+                        },
+                        {
+                            "val": 1463.2,
+                            "sgst": 0,
+                            "rev": "N",
+                            "itcavl": "Y",
+                            "irn": "974575a9d874c2841485d0864c4b9bdf26e7beb9216f176a06ce272f6e40a2d6",
+                            "txval": 1240,
+                            "typ": "R",
+                            "cgst": 0,
+                            "irngendate": "01-01-2026",
+                            "inum": "KA-2526-2711698",
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 223.2,
+                            "dt": "31-12-2025",
+                            "imsStatus": "A",
+                            "pos": "07",
+                            "srctyp": "E-Invoice"
+                        }
+                    ],
+                    "trdnm": "AMAZON SELLER SERVICES PVT LTD",
+                    "supfildt": "11-01-2026",
+                    "supprd": "122025",
+                    "ctin": "29AAICA3918J1ZE"
+                }
+            ],
+            "cdnr": [
+                {
+                    "trdnm": "AMAZON SELLER SERVICES PVT LTD",
+                    "supfildt": "11-01-2026",
+                    "supprd": "122025",
+                    "nt": [
+                        {
+                            "val": 3433.42,
+                            "sgst": 0,
+                            "itcavl": "Y",
+                            "rev": "N",
+                            "ntnum": "KA-C-26-1339047",
+                            "irn": "b20c7474d409ded1414d81f3080d9cc576891d77ba4a5f0a804bdcc44ff93d2c",
+                            "txval": 2909.72,
+                            "typ": "C",
+                            "irngendate": "02-01-2026",
+                            "cgst": 0,
+                            "rsn": "",
+                            "cess": 0,
+                            "igst": 523.7,
+                            "dt": "31-12-2025",
+                            "imsStatus": "N",
+                            "pos": "07",
+                            "srctyp": "E-Invoice",
+                            "suptyp": "R"
+                        }
+                    ],
+                    "ctin": "29AAICA3918J1ZE"
+                }
+            ]
+        },
+        "gendt": "14-01-2026",
+        "gstin": "07AGFPA7063A2ZY",
+        "version": "1.0",
+        "cpsumm": {
+            "b2b": [
+                {
+                    "sgst": 471.6,
+                    "ttldocs": 1,
+                    "trdnm": "SHREE SHYAM ELECTRONICS",
+                    "supprd": "122025",
+                    "supfildt": "13-01-2026",
+                    "txval": 5240,
+                    "ctin": "07ABJPG8300M1ZK",
+                    "cgst": 471.6,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 3.35,
+                    "ttldocs": 1,
+                    "trdnm": "Porter",
+                    "supprd": "122025",
+                    "supfildt": "11-01-2026",
+                    "txval": 134,
+                    "ctin": "07AAGCR8772D1Z4",
+                    "cgst": 3.35,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 0,
+                    "ttldocs": 1,
+                    "trdnm": "FLIPKART INTERNET PRIVATE LIMITED",
+                    "supprd": "122025",
+                    "supfildt": "09-01-2026",
+                    "txval": 138.76,
+                    "ctin": "29AACCF0683K1ZD",
+                    "cgst": 0,
+                    "cess": 0,
+                    "igst": 24.98
+                },
+                {
+                    "sgst": 3600,
+                    "ttldocs": 1,
+                    "trdnm": "BILAL HANDI CRAFT",
+                    "supprd": "122025",
+                    "supfildt": "10-01-2026",
+                    "txval": 40000,
+                    "ctin": "07CDDPB9704Q1Z7",
+                    "cgst": 3600,
+                    "cess": 0,
+                    "igst": 0
+                },
+                {
+                    "sgst": 0,
+                    "ttldocs": 1,
+                    "trdnm": "INDIAMART INTERMESH LTD.",
+                    "supprd": "122025",
+                    "supfildt": "07-01-2026",
+                    "txval": 22050,
+                    "ctin": "09AAACI5853L2Z5",
+                    "cgst": 0,
+                    "cess": 0,
+                    "igst": 3969
+                },
+                {
+                    "sgst": 0,
+                    "ttldocs": 2,
+                    "trdnm": "AMAZON SELLER SERVICES PVT LTD",
+                    "supprd": "122025",
+                    "supfildt": "11-01-2026",
+                    "txval": 15034.43,
+                    "ctin": "29AAICA3918J1ZE",
+                    "cgst": 0,
+                    "cess": 0,
+                    "igst": 2706.09
+                },
+                {
+                    "sgst": 0,
+                    "ttldocs": 1,
+                    "trdnm": "Meesho Technologies Private Limited",
+                    "supprd": "122025",
+                    "supfildt": "10-01-2026",
+                    "txval": 624.57,
+                    "ctin": "29AARCM9332R1Z9",
+                    "cgst": 0,
+                    "cess": 0,
+                    "igst": 112.42
+                }
+            ],
+            "cdnr": [
+                {
+                    "sgst": 0,
+                    "nttyp": "C",
+                    "ttldocs": 1,
+                    "trdnm": "AMAZON SELLER SERVICES PVT LTD",
+                    "supprd": "122025",
+                    "supfildt": "11-01-2026",
+                    "txval": 2909.72,
+                    "ctin": "29AAICA3918J1ZE",
+                    "cgst": 0,
+                    "cess": 0,
+                    "igst": 523.7
+                }
+            ]
+        }
+    },
+    "chksum": "b35ce8a1a52f963935a3d916fd03ef3845d2b89261f89cd627a8a9404ff543d4"
+}
